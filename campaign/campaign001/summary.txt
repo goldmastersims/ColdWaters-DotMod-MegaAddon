@@ -1,0 +1,20 @@
+Image=campaign/images/pact naval 2
+PlayerVessels=usn_84_ssn_skipjack,usn_84_ssn_permit,usn_84_ssn_sturgeon,usn_84_ssn_narwhal,usn_84_ssn_los_angeles,usn_84_ff_knox_pl,usn_84_ffg_perry_pl,usn_84_cg_belknap_pl,usn_84_cg_ticonderoga_pl
+[COMMANDER NAMES]
+CommanderName=COMSUBLANT
+CommanderFleetName=CINCLANTFLT
+
+//Easy, Normal, Hard, Elite
+PrestigeMode=TRUE
+StartingPrestige=400,200,0,0
+LoadoutType=0
+[Prestige Cost]
+usn_84_ssn_skipjack=0
+usn_84_ssn_permit=80
+usn_84_ssn_sturgeon=160
+usn_84_ssn_narwhal=240
+usn_84_ssn_los_angeles=200
+usn_84_ff_knox_pl=0
+usn_84_ffg_perry_pl=40
+usn_84_cg_belknap_pl=80
+usn_84_cg_ticonderoga_pl=120

@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=UGST
+WeaponDescriptiveName=UGST Torpedo
+WeaponDescription=This is an advanced Soviet dual-purpose torpedo designed to replace all proceeding 21" torpedoes. It has significatly worse capability than that of a regular Mk 48, but is still dangerous to enemy submarines. It is equipped with a wake-homing sensor and wire-guidance.

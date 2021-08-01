@@ -1,0 +1,12 @@
+//Assassins
+
+Image=campaign/images/TransitBackgrounds/kilo_02.jpg
+MissionLocation=200 Miles North-West of Murmansk
+Briefing=8 MAY 2004
+Briefing=After making a successful cruise missile strike against Murmansk, your submarine makes a dash for the Arctic Ice, where it can safely return to Holy Loch. But you have an odd feeling you're being watched....
+Briefing=
+Briefing=Primary Objective:
+Briefing=Survive
+Briefing=
+Briefing=Secondary Objective:
+Briefing=Sink the attacking submarines

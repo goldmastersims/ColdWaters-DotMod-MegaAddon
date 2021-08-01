@@ -1,0 +1,12 @@
+//Opening Shots
+
+Image=campaign/images/TransitBackgrounds/sovremenny_02.jpg
+MissionLocation=East of Iceland
+Briefing=17 APR 2004
+Briefing=Following hostilities breaking out between the East and West, a Soviet raider group has left Archangelsk to cover the invasion of Narvik. As the USS Constellation (CV-66) moves in to support Norwegian troops on the ground, you are ordered to clear a path for the carrier group. 
+Briefing=
+Briefing=Primary Objective:
+Briefing=Sink the ASuW ships
+Briefing=
+Briefing=Secondary Objective:
+Briefing=Sink the escorts

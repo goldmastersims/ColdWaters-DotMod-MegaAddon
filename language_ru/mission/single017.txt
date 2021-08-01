@@ -1,0 +1,12 @@
+//Hunter Killers
+
+Image=campaign/images/pact wolfpack 4
+MissionLocation=North-East of the Faroe Islands
+Briefing=21 APR 2004
+Briefing=As tensions rose between East and West, several submarines where ordered to deploy to Europe as quickly as possible. After racing through the North Atlantic, you finally arrive on station, only to hear the third world war had already began. As you and your crew slips beneath the waves to contemplate this, sonar detects an enemy fast-attack wolfpack heading straight for your position. 
+Briefing=
+Briefing=Primary Objective:
+Briefing=Sink the enemy missile submarine
+Briefing=
+Briefing=Secondary Objective:
+Briefing=Sink the escorting submarines

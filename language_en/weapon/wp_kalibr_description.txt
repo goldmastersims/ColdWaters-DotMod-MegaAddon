@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=SS-N-27B
+WeaponDescriptiveName=SS-N-17B Sizzler Multi-role Missile
+WeaponDescription=This is a modern Soviet multi-role missile, with similar capabilities to the UMG-84 Harpoon. It can be launched from various platforms, and can be used as an anti-ship weapon or used in land strikes.

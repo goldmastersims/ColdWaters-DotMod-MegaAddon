@@ -1,0 +1,12 @@
+//Hunting the Arctic Wolf
+
+Image=campaign/images/pact ssbn
+MissionLocation=North of Svalbard
+Briefing=23 APR 2004
+Briefing=Soviet ballistic missile submarines are operating under the Arctic ice cap. SIGINT has intercepted a communiqué pinpointing the location of a Typhoon and its bastion. You are ordered to intercept and destroy the SSBN. NOTICE: UNDER ICE MISSIONS FREQUENTLY BREAK, AND FREEZE THE GAME. THIS IS ONE OF THOSE MISSIONS. THERE WILL BE A FIX EVENTUALLY.
+Briefing=
+Briefing=Primary Objective:
+Briefing=Sink the Typhoon
+Briefing=
+Briefing=Secondary Objective:
+Briefing=Sink the escorting submarines

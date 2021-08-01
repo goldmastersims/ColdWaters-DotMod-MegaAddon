@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=UUM-125B
+WeaponDescriptiveName=Sea Lance Missile (UUM-125B)
+WeaponDescription=The UUM-125 Sea Lance, initially known as the Common ASW Standoff Weapon, was authorized in 1980 as a successor to both the UUM-44 SUBROC and RUR-5 ASROC anti-submarine missiles. The Sea Lance is housed inside a watertight capsule which can be launched from an ordinary 21 inch torpedo tube. After being fired, the capsule floats to the surface where the rocket will ignite. An inertial guidance system directs the missile to the general location of the target, after which the rocket will drop its Mk50 torpedo into the water.

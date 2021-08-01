@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=AT-2UM
+WeaponDescriptiveName=AT-2UM ASW Torpedo
+WeaponDescription=Special: ASW\nThis is an modernized version of the AT-2 torpedo with improved performance. It is not as dangerous as the UMGT-1M.

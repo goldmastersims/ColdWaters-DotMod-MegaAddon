@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=UGMT-1M
+WeaponDescriptiveName=UGMT-1M ASW Torpedo
+WeaponDescription=This is an improved version of the UMGT-1 lightweight air-dropped torpedo. It features a larger warhead and a slightly bigger battery. This torpedo that equips most Soviet helicopters, ASW aircraft and serves as the payload for the SS-N-14 and SS-N-16 ASW missiles. Being lightweight, their warheads are weaker than torpedoes used by ships or submarines.

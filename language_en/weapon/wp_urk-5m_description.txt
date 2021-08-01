@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SS-N-14B 
+WeaponDescriptiveName=SS-N-14B Silex Anti-ship/Anti-sub Missile
+WeaponDescription=Special: Dual-purpose\nThe SS-N-14B Silex (Russian name: URK-5 Rastrub-B) is a modernization of an URPK-3 "Metel', carrying the improved UMGT-1M torpedo and a longer range. Anti-ship mode was introduced and it could be used both against surface and submerged targets, giving ships like the Krivak ASuW capabilities without reducing storage for thier ASW missiles. Mode can be switched in the weapon settings just before launch.

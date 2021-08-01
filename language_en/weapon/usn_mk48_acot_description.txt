@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=ACOT
+WeaponDescriptiveName=Mark 48 ACOT Torpedo (Mk48)
+WeaponDescription=The Mark 48 ACOT is an improvement of the Mk48 ADCAP boasting sensors and electronics, making it one of the most lethal torpedoes in the world. 

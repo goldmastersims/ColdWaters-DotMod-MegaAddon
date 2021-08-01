@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SS-N-16M
+WeaponDescriptiveName=SS-N-16M Stallion ASW Missile
+WeaponDescription=This is a modernized version of the RPK-6M "Vodopad" (Russian name: RPK-6M Vodopad). It is a underwater-launched stand-off ASW missile. It is similar to the SS-N-15 but drops the UGMT-1M homing torpedo. 

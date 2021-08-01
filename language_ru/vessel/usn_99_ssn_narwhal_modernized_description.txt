@@ -1,0 +1,10 @@
+[Unit Reference]
+ShipClass=Narwhal (Modernized)
+ShipClassShort=Narwhal (Mod)
+Description=Narwhal-class Nuclear Attack Submarine (Modernized)
+History=This is a one-off design intended to take advantage of the very quiet natural circulation S5G plant. This made it into one of the quietest boats until the emergence of the SSN-21 Seawolf in the mid-90's. The sonar and firecontrol equipment is the same as on the Sturgeon class. In the 1990's and 2000's the Narwhal was upgraded to fire improved versions of the Mk-48 and the Sea Lance ASW missile.
+
+[Player Ship Instances]
+PlayerClassNames=Narwhal
+
+PlayerClassHullNumbers=SSN-671
