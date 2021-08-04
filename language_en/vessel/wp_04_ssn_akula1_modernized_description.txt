@@ -1,6 +1,6 @@
 [Unit Reference]
-ShipClass=Akula (Modernized)
-ShipClassShort=Akula (Mod)
+ShipClass=Akula1 Mod
+=Akula (Mod)
 Description=Akula-class Nuclear Attack Submarine (Modernized)
 History=This is one of the latest and most advanced Soviet submarine designs. It is larger than the Sierra, due to using steel for construction instead of much more expensive titanium. The Soviets put this increased size to use for even better quieting, more weapons and an improved sonar suite. These boats are nearly the equal of the SSN-21 Seawolf.
 

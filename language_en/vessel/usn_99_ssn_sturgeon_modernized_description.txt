@@ -1,6 +1,5 @@
 [Unit Reference]
-ShipClass=Sturgeon (Modernized)
-ShipClassShort=Sturgeon (Mod)
+ShipClass=Sturgeon Mod=Sturgeon (Mod)
 Description=Sturgeon-class Nuclear Attack Submarine (Modernized)
 History=In service since 1967, this class formed the backbone of US attack submarines during the cold war until the mid-80's. In the 1990's and 2000's all of these subs where upgraded to fire improved versions of the Mk-48 and the Sea Lance ASW missile. Stealthy, manueverable and with an excellent sonar suite, these boats can match up to any but the very latest Soviet boats. Their only drawback is their comparatively low speed.
 
