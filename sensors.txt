@@ -459,6 +459,16 @@ SonarBaffle=85
 SonarNoisePerKnot=1
 SonarOutput=220
 
+//Type 2051- Oberon
+SonarModel=uk_2051
+SonarType=ACTIVE/PASSIVE
+SonarFrequencies=L,L
+SonarActiveSensitivity=23
+SonarPassiveSensitivity=36
+SonarBaffle=150
+SonarNoisePerKnot=1
+SonarOutput=230
+
 //Type 2020 - uk_84_ssn_trafalgar
 SonarModel=uk_2020
 SonarType=ACTIVE/PASSIVE
