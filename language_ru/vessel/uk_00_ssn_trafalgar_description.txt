@@ -1,0 +1,10 @@
+[Unit Reference]
+Designation=АПЛ
+ShipClass=«Трафальгар»
+Description=АПЛ класса «Трафальгар» (2000г)
+
+History=Подводные лодки типа «Трафальгар» (англ. Trafalgar) — серия британских атомных многоцелевых ракетно-торпедных подводных лодок. Явились дальнейшим развитием подводных лодок типа «Суифтшюр».
+
+[Player Ship Instances]
+PlayerClassNames=HMS «Trafalgar»,HMS «Turbulent»,HMS «Tireless»,HMS «Torbay»,HMS «Trenchant»,HMS «Talent»,HMS «Triumph»
+PlayerClassHullNumbers=S107,S87,S88,S90,S91,S92,S93
