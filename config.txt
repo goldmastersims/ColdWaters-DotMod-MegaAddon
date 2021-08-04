@@ -8,7 +8,7 @@ GenerateFullLog=TRUE
 
 //=========Modded Parameters===========
 //You can change this string to your mod name and version
-ModVersion=DMC (AUDIO+) Ver 1.a
+ModVersion=DotMod + MegaAddon
 
 //Custom font
 CustomFontBundle=bundles\fonts\custom
