@@ -1,5 +1,5 @@
 MissionType=SSBN_PATROL
-AllowedOnlyfor=Surface
+AllowedOnlyfor=SURFACE
 ForbiddenFor=
 HoursToStart=0,2
 StartLocation=NAVAL_BASE
