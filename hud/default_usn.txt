@@ -1,7 +1,7 @@
 ﻿[Player Data Panel]
-PlayerDataColor1=74,163,201,255
-PlayerDataColor2=97,251,246,255
+PlayerDataColor1=255,136,154,255
 
+PlayerDataColor2=255,210,60,255
 ContactAboveLayer=hud/uk/icon_arrow_up.png
 ContactBelowLayer=hud/uk/icon_arrow_down.png
 MiniMapOff=hud/uk/tacmap_minimized.png
@@ -27,7 +27,9 @@ TacticalNavpointColorAlt=2,145,247,255
 TacticalMapAircraftIcon=hud/uk/icon_aircraft.png
 TacticalMapHelicopterIcon=hud/uk/icon_helicopter.png
 
+
 //Deprecated
+
 //TorpedoTubeRearIndicator=hud/uk/icon_rear_tube.png
 //TorpedoTubeRearPosition=-175,5
 //TorpedoTubeRearSize=30,15
@@ -39,7 +41,9 @@ TacticalMapHelicopterIcon=hud/uk/icon_helicopter.png
 
 TubeGUIFolder=hud/uk
 
-//TorpedoSettingShip=hud/uk/icon_search_ship.png
+//
+
+TorpedoSettingShip=hud/uk/icon_search_ship.png
 TorpedoSettingShip=hud/uk/icon_target_ship.png
 TorpedoSettingShallowSub=hud/uk/icon_search_shallow_sub.png
 TorpedoSettingLevelSub=hud/uk/icon_search_level_sub.png
@@ -91,10 +95,10 @@ LoadSAMButton=hud/uk/icon_load_tube.png
 
 
 [Additional]
-StoresHudStaticColor=97,251,246,255
+StoresHudStaticColor=255,136,154,255
 
-//StoresLoadTimeTextOffset=20,-14
-StoresLoadTimeTextOffset=0,-14
+StoresLoadTimeTextOffset=20,-14
+//StoresLoadTimeTextOffset=0,-14
 StoresTotalQuantityTextOffset=6,6
 StoresNoisemakerQuantityTextOffset=-47,5
 StoresWiresNumberTextOffset=-8,2
@@ -167,11 +171,10 @@ ConditionsLayer=hud/uk/svp_layer.png
 
 SignaturePanel=hud/uk/contact_analysis.png
 SignaturePanelSmall=hud/uk/contact_analysis_small.png
-SignatureTextColor1=74,163,201,255
+SignatureTextColor1=65,173,77,255
+SignatureTextColor2=151,255,144,255
 
-SignatureTextColor2=97,251,246,255
-SignatureIconColor=74,163,201,255
-
+SignatureIconColor=255,210,60,255
 SignatureIconNext=hud/uk/arrow_next.png
 SignatureIconPrev=hud/uk/arrow_prev.png
 SignatureIconSelect=hud/uk/checkbox_filled.png
@@ -199,7 +202,7 @@ TorpedoTubeSelected=hud/uk/tube_selected.png
 TorpedoTubeUnselected=hud/uk/tube_unselected.png
 TorpedoTubeDestroyed=hud/default/tube_destroyed.png
 TorpedoTubeWire=hud/default/tube_wire.png
-VerticalLaunchSystemTextColor=255,255,255,255
+VerticalLaunchSystemTextColor=74,163,201,255
 WeaponHighlight=hud/uk/weapon_type_frame.png
 
 [Buttons]
@@ -263,8 +266,7 @@ UnitReferenceMain=hud/uk/unit_ref_main.png
 UnitReferenceSecondary=hud/uk/unit_ref_info_window.png
 UnitReferenceTab=hud/uk/unit_ref_tab.png
 UnitReferenceTextHighlightColor=maroon
-UnitReferenceIconColor=100,100,100,255
-
+UnitReferenceIconColor=50,50,50,255
 UnitReferenceIconNext=hud/uk/arrow_next.png
 UnitReferenceIconPrev=hud/uk/arrow_prev.png
 UnitReferenceIconSelect=hud/uk/checkbox_filled.png
@@ -275,8 +277,8 @@ PeriscopeESMMeter=hud/uk/esm_frame.png
 PeriscopeESMMeterFill=hud/uk/esm_level_bar.png
 PeriscopeESMMeterColor=196,70,70,255
 PeriscopeToolbar=hud/uk/periscope_tools_background.png
-PeriscopeMaskDay=hud/uk/periscope_day.png
-PeriscopeMaskNight=hud/uk/periscope_night.png
+PeriscopeMaskDay=hud/default/periscope_day.png
+PeriscopeMaskNight=hud/default/periscope_night.png
 
 [Tactical Map]
 TacticalMapBackground=hud/uk/tacmap_background.png

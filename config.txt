@@ -24,7 +24,7 @@ ASRSnakeProbability=0
 
 //Increaces crush depth beyond Test Depth. Crush depth = Test Depth + (Test Depth * (Random value between TestDepthAddition and TestDepthAddition * 1.5))
 //Original game value = 0.5
-TestDepthAddition=0.25
+TestDepthAddition=0.5
 
 //After this time (in seconds) game makes wire break on run checks every minute. Actual time when you're guaranteed your (and AI's) wires will not break on run is 60 sec more 
 //Default is 240
@@ -81,8 +81,8 @@ MusicActionReportVictory=audio/music/Cold Waters Campaign Victory
 MusicActionReportLoss=audio/music/Cold Waters Campaign Loss
 
 [Acoustics & Weather]
-MaxSurfaceDuctBonus=12
-MaxLayerBonus=12
+MaxSurfaceDuctBonus=15
+MaxLayerBonus=15
 MaxConvergenceBonus=20
 ConvergenceRange=35000,44000
 MaxBottomBounceBonus=10
@@ -92,7 +92,7 @@ AttenuationFactor=0.0008
 SpreadingFactor=20
 OceanBaseAmbientNoise=75
 NoisePerSeaState=3
-MaxNoiseFromRain=20
+MaxNoiseFromRain=24
 NoiseFromCavitation=20
 NoiseFromTransient=5
 TargetNoisePerKnot=1
@@ -102,13 +102,13 @@ MaxShallowsAbsorption=20
 StrengthTypes=ZeroStrength,VeryWeak,Weak,Moderate,Strong,VeryStrong
 TimesOfDay=Dawn,Morning,Noon,Afternoon,Evening,Night
 Weather=Clear,Scattered,Broken,Overcast,Rain,Storm,Snow,SnowStorm
-WeatherProbability=0.2,0.2,0.2,0.2,0.1,0.1
+WeatherProbability=0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
 WeatherSeasonModifier=0.4
 SeaStates=Calm,LightAir,LightBreeze,GentleBreeze,ModerateBreeze,FreshBreeze,StrongBreeze,HighWind
 SeaStateProbability=0.05,0.1,0.2,0.2,0.2,0.1,0.1,0.05
 SeaStateSeasonModifier=0.25
 UnderwaterParticles=environment/underwater_particles
-RunningSilentBonus=5,8
+RunningSilentBonus=5,6
 DetectionThreshold=10
 MaintainContactThreshold=1
 ContactProfileGraphicFactor=2
@@ -123,8 +123,8 @@ NearbyAircraftMinDistance=5000
 //Flat % chance for whales
 WhaleProbability=0.1
 //Probability * pixel value of traffic map (0-1), rolls 2x
-NeutralVesselProbability1=0.5
-NeutralVesselProbability2=0.33
+NeutralVesselProbability1=0.44
+NeutralVesselProbability2=0.88
 
 [Environments]
 //First environment is used in Unit Reference for lighting

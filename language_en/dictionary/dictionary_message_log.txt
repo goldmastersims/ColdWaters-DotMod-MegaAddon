@@ -17,6 +17,7 @@ AboveMaxRange=Conn, torpedo room: cannot fire <WEAPON> beyond <RANGE> <KILOYARD>
 VLSNotReady=VLS not ready to fire
 FireVLS=Fire missile № <VLS_NUMBER>
 
+
 FireAntiAirMissile=Fire SAM № <LAUNCHPOINT_NUMBER>
 AntiAirMissileReloading=Cant fire SAM- reloading.
 AntiAirMissileReloaded=Conn, SAM ready to fire.
@@ -106,6 +107,7 @@ VLSTooFast=Conn, torpedo room: cannot fire <VLS> weapon above <SPEED> <KNOT>
 VLSTooDeep=Conn, torpedo room: cannot <VLS> weapon below <DEPTH> <FEET>
 //CannotLoadWireInTube=Conn, torpedo room: cannot reload <TUBE>, active wire in <TUBE>
 NoReloadsAvailable=No reloads available
+NoSuitableTorpedo=No torpedoes of that caliber
 NoVLSReloadsAvailable=No weapons remain in <VLS>
 BelowMinRange=Conn, torpedo room: cannot fire <WEAPON> below <RANGE> <KILOYARD>
 
@@ -193,8 +195,9 @@ TubeJamDestroyed=audio/messagelog/Alarm SUB Alt
 
 SubsystemRepaired=audio/messagelog/OnOff 02
 
-TransientKnown=audio/messagelog/transient
-TransientUnknown=audio/messagelog/transient
+
+TransientKnown=audio/voices/sonarman/transient.wav
+TransientUnknown=audio/voices/sonarman/transientbearing.wav
 
 Power6=audio/messagelog/max power
 
@@ -230,11 +233,12 @@ WireBreak=audio/messagelog/minor error
 NotReady=audio/messagelog/minor error
 ToDeepToDeploy=audio/messagelog/minor error
 CannotUseMasts=audio/messagelog/minor error
-PlayerCavitating=audio/messagelog/minor error
+PlayerCavitating=audio/cavitation/cavitatingENG.ogg
 BelowMinRange=audio/messagelog/minor error
 VLSTooFast=audio/messagelog/minor error
 VLSTooDeep=audio/messagelog/minor error
 NoReloadsAvailable=audio/messagelog/minor error
+NoSuitableTorpedo=audio/voices/torpedo room/No torpedoes of that caliber.wav
 NoVLSReloadsAvailable=audio/messagelog/minor error
 BallastRecharging=audio/messagelog/minor error
 
@@ -268,7 +272,7 @@ VLSNotReady=audio/voices/fire control/unable to fire VLS.wav|7|FALSE
 VLSTooFast=audio/voices/fire control/to Fast to fireVLS.wav|7|FALSE
 FireVLS=audio/voices/fire control/fire VLS SFX.wav|5|FALSE
 FireAntiAirMissile=audio/voices/fire control/fire missile SFX.wav|5|FALSE
-
+NoSuitableTorpedo=audio/voices/torpedo room/No torpedoes of that caliber.wav|7|FALSE
 
 TowedArrayOn=audio/voices/xo/section2/towedarray_out.wav|5|FALSE
 TowedArrayOff=audio/voices/xo/section2/towedarray_in.wav|5|FALSE

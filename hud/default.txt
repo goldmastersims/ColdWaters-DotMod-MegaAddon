@@ -1,6 +1,7 @@
 ﻿[Player Data Panel]
-PlayerDataColor1=74,163,201,255
-PlayerDataColor2=97,251,246,255
+PlayerDataColor1=255,136,154,255
+
+PlayerDataColor2=255,210,60,255
 ContactAboveLayer=hud/uk/icon_arrow_up.png
 ContactBelowLayer=hud/uk/icon_arrow_down.png
 MiniMapOff=hud/uk/tacmap_minimized.png
@@ -22,11 +23,13 @@ TacticalMissileLaunchColor=255,255,255,255
 TacticalNavpointIcon=hud/uk/icon_navpoint.png
 TacticalNavpointColor=97,251,246,255
 TacticalNavpointColorAlt=2,145,247,255
-
 TacticalMapAircraftIcon=hud/uk/icon_aircraft.png
 TacticalMapHelicopterIcon=hud/uk/icon_helicopter.png
 
+
+
 //Deprecated
+
 //TorpedoTubeRearIndicator=hud/uk/icon_rear_tube.png
 //TorpedoTubeRearPosition=-175,5
 //TorpedoTubeRearSize=30,15
@@ -35,9 +38,12 @@ TacticalMapHelicopterIcon=hud/uk/icon_helicopter.png
 //TorpedoTube400Selected=hud/uk/tube_400_selected.png
 //TorpedoTube400Unselected=hud/uk/tube_400_unselected.png
 
+
 TubeGUIFolder=hud/uk
 
-//TorpedoSettingShip=hud/uk/icon_search_ship.png
+//
+
+TorpedoSettingShip=hud/uk/icon_search_ship.png
 TorpedoSettingShip=hud/uk/icon_target_ship.png
 TorpedoSettingShallowSub=hud/uk/icon_search_shallow_sub.png
 TorpedoSettingLevelSub=hud/uk/icon_search_level_sub.png
@@ -89,7 +95,7 @@ LoadSAMButton=hud/uk/icon_load_tube.png
 
 
 [Additional]
-StoresHudStaticColor=97,251,246,255
+StoresHudStaticColor=255,136,154,255
 
 //StoresLoadTimeTextOffset=20,-14
 StoresLoadTimeTextOffset=0,-14
@@ -165,11 +171,10 @@ ConditionsLayer=hud/uk/svp_layer.png
 
 SignaturePanel=hud/uk/contact_analysis.png
 SignaturePanelSmall=hud/uk/contact_analysis_small.png
-SignatureTextColor1=74,163,201,255
+SignatureTextColor1=65,173,77,255
+SignatureTextColor2=151,255,144,255
 
-SignatureTextColor2=97,251,246,255
-SignatureIconColor=74,163,201,255
-
+SignatureIconColor=255,210,60,255
 SignatureIconNext=hud/uk/arrow_next.png
 SignatureIconPrev=hud/uk/arrow_prev.png
 SignatureIconSelect=hud/uk/checkbox_filled.png
@@ -197,7 +202,7 @@ TorpedoTubeSelected=hud/uk/tube_selected.png
 TorpedoTubeUnselected=hud/uk/tube_unselected.png
 TorpedoTubeDestroyed=hud/uk/tube_destroyed.png
 TorpedoTubeWire=hud/uk/tube_wire.png
-VerticalLaunchSystemTextColor=255,255,255,255
+VerticalLaunchSystemTextColor=74,163,201,255
 WeaponHighlight=hud/uk/weapon_type_frame.png
 
 [Buttons]
@@ -299,7 +304,6 @@ PortColor=255,136,154,255
 
 PlayerColor=255,255,255,255
 EnemyColor=255,136,154,255
-
 NeutralColor=2,181,99,255
 VesselTrails=255,255,255,255
 TorpedoOnWire=255,255,255,255
