@@ -1,6 +1,6 @@
 MissionType=SSBN_RUN
 AllowedOnlyfor=
-ForbiddenFor=FFG,FF,DD
+ForbiddenFor=FFG,FF,DD,BB
 HoursToStart=8,24
 StartLocation=NAVAL_BASE
 StartAlignment=ENEMY

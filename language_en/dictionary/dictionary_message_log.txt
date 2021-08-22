@@ -177,12 +177,12 @@ AntiAirMissileReloaded=audio/voices/fire control/Missile Reloaded.wav
 AntiAirMissileNoAmmo=audio/voices/fire control/MissileNoAmmo.wav
 
 =============================================================
-RaiseMast1=audio/messagelog/mast
-LowerMast1=audio/messagelog/mast
-RaiseMast2=audio/messagelog/mast
-LowerMast2=audio/messagelog/mast
-RaiseMast0=audio/messagelog/mast
-LowerMast0=audio/messagelog/mast
+RaiseMast1=audio/mast/mast_esm.ogg
+LowerMast1=audio/mast/mast_radar+esm_retract.ogg
+RaiseMast2=audio/mast/mast_radar.ogg
+LowerMast2=audio/mast/mast_radar+esm_retract.ogg
+RaiseMast0=audio/mast/mast.ogg
+LowerMast0=audio/mast/mast.ogg
 BlowBallast=audio/ballasttank/Submarine tanks blowing.ogg
 BallastRecharged=audio/ballasttank/Submarine tanks flooding.ogg
 CommandoDeployed=audio/messagelog/ballast recharged
@@ -196,8 +196,8 @@ TubeJamDestroyed=audio/messagelog/Alarm SUB Alt
 SubsystemRepaired=audio/messagelog/OnOff 02
 
 
-TransientKnown=audio/voices/sonarman/transient.wav
-TransientUnknown=audio/voices/sonarman/transientbearing.wav
+TransientKnown=audio/messagelog/Alarm SUB Alt
+TransientUnknown=audio/messagelog/Alarm SUB Alt
 
 Power6=audio/messagelog/max power
 

@@ -175,9 +175,9 @@ AntiAirMissileReloaded=audio/alert/SAM_reloaded.ogg
 AntiAirMissileNoAmmo=audio/messagelog/minor error
 =============================================================
 RaiseMast1=audio/mast/mast_esm.ogg
-LowerMast1=audio/mast/mast.ogg
+LowerMast1=audio/mast/mast_radar+esm_retract.ogg
 RaiseMast2=audio/mast/mast_radar.ogg
-LowerMast2=audio/mast/mast.ogg
+LowerMast2=audio/mast/mast_radar+esm_retract.ogg
 RaiseMast0=audio/mast/mast.ogg
 LowerMast0=audio/mast/mast.ogg
 BlowBallast=audio/ballasttank/Submarine tanks blowing.ogg
@@ -192,8 +192,8 @@ TubeJamDestroyed=audio/messagelog/Alarm SUB Alt
 
 SubsystemRepaired=audio/messagelog/OnOff 02
 
-TransientKnown=audio/messagelog/transient
-TransientUnknown=audio/messagelog/transient
+TransientKnown=audio/messagelog/Alarm SUB Alt
+TransientUnknown=audio/messagelog/Alarm SUB Alt
 
 Power6=audio/messagelog/max power
 

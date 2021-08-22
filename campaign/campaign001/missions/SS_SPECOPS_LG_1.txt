@@ -1,4 +1,6 @@
 MissionType=SS_SPECOPS_LG
+AllowedOnlyfor=
+ForbiddenFor=BB
 HoursToStart=0,24
 StartLocation=NAVAL_BASE
 StartAlignment=ENEMY

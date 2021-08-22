@@ -1,4 +1,6 @@
 MissionType=SSN_SURGE
+AllowedOnlyfor=
+ForbiddenFor=BB
 HoursToStart=0,3
 StartLocation=NAVAL_BASE
 StartAlignment=ENEMY

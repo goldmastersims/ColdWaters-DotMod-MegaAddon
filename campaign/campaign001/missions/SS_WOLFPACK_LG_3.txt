@@ -1,4 +1,6 @@
 MissionType=SS_WOLFPACK_LG
+AllowedOnlyfor=
+ForbiddenFor=BB
 HoursToStart=0,6
 StartLocation=WAYPOINT
 StartAlignment=
