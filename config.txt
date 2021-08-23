@@ -85,13 +85,13 @@ MaxSurfaceDuctBonus=15
 MaxLayerBonus=15
 MaxConvergenceBonus=20
 ConvergenceRange=35000,44000
-MaxBottomBounceBonus=10
+MaxBottomBounceBonus=14
 BottomBounceRange=15000,20000
 BottomBounceDepthRange=2000,2800
 AttenuationFactor=0.0008
 SpreadingFactor=20
-OceanBaseAmbientNoise=75
-NoisePerSeaState=3
+OceanBaseAmbientNoise=78
+NoisePerSeaState=2
 MaxNoiseFromRain=24
 NoiseFromCavitation=20
 NoiseFromTransient=5
@@ -105,7 +105,7 @@ Weather=Clear,Scattered,Broken,Overcast,Rain,Storm,Snow,SnowStorm
 WeatherProbability=0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
 WeatherSeasonModifier=0.4
 SeaStates=Calm,LightAir,LightBreeze,GentleBreeze,ModerateBreeze,FreshBreeze,StrongBreeze,HighWind
-SeaStateProbability=0.05,0.1,0.2,0.2,0.2,0.1,0.1,0.05
+SeaStateProbability=0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
 SeaStateSeasonModifier=0.25
 UnderwaterParticles=environment/underwater_particles
 RunningSilentBonus=5,6
@@ -124,7 +124,7 @@ NearbyAircraftMinDistance=5000
 WhaleProbability=0.1
 //Probability * pixel value of traffic map (0-1), rolls 2x
 NeutralVesselProbability1=0.44
-NeutralVesselProbability2=0.88
+NeutralVesselProbability2=0.55
 
 [Environments]
 //First environment is used in Unit Reference for lighting
