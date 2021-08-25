@@ -1,0 +1,13 @@
+NextAction=event_campaign_win_5
+Image=campaign/images/backgrounds/peace_treaty.PNG
+Photo=campaign/images/photos/un_support.PNG
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>World War III Over, NATO Victory</b>
+Sentence1=Earlier Today General Secretary Gorbachev, President McCain, and leaders from both NATO and the Warsaw Pact have agreed to and finalized the peace treaty to end the third world war and the Cold War War itself. In the peace treaty is an agreement for Vladimir Kryuchkov, the former General Secretary of the USSR, and the man whom many hold responsible for inciting the conflict, will be taken into UN custody and tried for his crimes at the Hague, where he will most likely be convicted and face a life sentence.
+Sentence2=Crowds across Europe and the United States have gathered to celebrate the end of the war, with crowds in Central Europe taking a moment to celebrate amidst the challenging act of rebuilding. Medical Aid and UN Missions have already begun to help the refugees, and the US appears to be drawing up a second Marshal plan amid the conflict.

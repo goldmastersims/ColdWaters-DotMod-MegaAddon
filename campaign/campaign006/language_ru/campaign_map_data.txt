@@ -73,6 +73,8 @@ LabelPosition=-145,-365
 LabelName=Brussels
 LabelPosition=195,-365
 LabelName=Warsaw
+LabelPosition=-40,-375
+LabelName=Bonn
 
 [MARKERS]
 Color=0,255,0,255
@@ -107,6 +109,8 @@ LocationMarkerPosition=57,-300
 LocationMarkerPosition=-93,-340
 LocationMarkerPosition=-120,-365
 LocationMarkerPosition=195,-375
+//Bonn
+LocationMarkerPosition=-40,-384
 
 [COUNTRY LABELS]
 Color=0,0,0,255
@@ -125,26 +129,26 @@ LabelPosition=130,-153.9
 LabelName=SWEDEN
 LabelPosition=269.8,-138.3
 LabelName=FINLAND
-LabelPosition=151,-374
-LabelName=POLAND
 LabelPosition=-90,-355
 LabelName=NETHERLANDS
 LabelPosition=-120,-382
 LabelName=BELGIUM
-LabelPosition=231,-325
-LabelName=LITHUANIA
-LabelPosition=280,-290
-LabelName=LATVIA
-LabelPosition=280,-260
-LabelName=ESTONIA
+//LabelPosition=231,-325
+//LabelName=LITHUANIA
+//LabelPosition=280,-290
+//LabelName=LATVIA
+//LabelPosition=280,-260
+//LabelName=ESTONIA
 
 Size=13
 LabelPosition=25,-290
 LabelName=DENMARK
-
-Size=16
-LabelPosition=3,-350
-LabelName=GERMANY
+LabelPosition=29,-357
+LabelName=EAST\nGERMANY
+LabelPosition=-20,-348
+LabelName=WEST\nGERMANY
+LabelPosition=151,-374
+LabelName=POLAND
 
 Size=26
 LabelPosition=477.3,-285.5

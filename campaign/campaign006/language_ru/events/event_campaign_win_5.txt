@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/backgrounds/ussr_dissolved.PNG
+Photo=campaign/images/photos/gorbachev_dissolves_ussr.PNG
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>GORBACHEV DISSOLVES THE SOVIET UNION</b>
+Sentence1=It has been just hours since Soviet Premier Mikhail Gorbachev has officially dissolved the Union of Soviet Socialist Republics and has reorganized the country into the Union of Former Soviet States (UFSR). The newly founded country is an attempt to salvage the former Soviet Union's remains and make it a more Western nation. The freshly launched UFSR will hold its first election next April, and until then, Gorbachev will remain in power as the "President." 
+Sentence2=Although Gorbachev has called for "unity in this time of crisis," several former Soviet Republics have elected not to join the UFSR, the list being: Lithuania, Latvia, Estonia, Ukraine, Moldova, Georgia, and Armenia. NATO nations are not pushing for war reparations against the UFSR, "to avoid the mistakes of the past, and look towards a brighter, peaceful future for the European continent."

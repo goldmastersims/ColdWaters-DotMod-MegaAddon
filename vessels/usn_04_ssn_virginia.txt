@@ -44,7 +44,7 @@ TowedArrayPosition=-0.0812,-0.0545,-0.674
 
 [Weapon Systems]
 TorpedoTypes=usn_mk48_acot,usn_moss,usn_uum-125b,usn_ugm84,usn_tasm,usn_tlam
-TorpedoNumbers=16,0,4,6,0,0
+TorpedoNumbers=16,2,2,6,0,0
 TorpedoTubes=5
 NumberOfWires=4
 TubeConfig=1,1,1,1,1
@@ -109,7 +109,7 @@ DamageControlPartyY=-31
 
 [Model]
 AssetBundle=bundles/vessels/usn/usn_ssn_virginia.unity3d
-ModelFile=assets/models/usn_ssn_virginia.fbx
+ModelFile=assets/vessels/usn/usn_ssn_virginia/usn_ssn_virginia.fbx
 
 //Hull and Deck
 MeshPosition=0,0,0
@@ -118,9 +118,8 @@ MeshRotation=0,0,0
 MeshHullCollider=usn_ssn_virginia_coll_hull
 MeshSuperstructureCollider=usn_ssn_virginia_coll_ss
 
-Material=assets/materials/usn_ssn_virginia.mat
-MaterialTextures=Assets/Textures/usn_ssn_virginia_tex.png,Assets/Textures/usn_ssn_virginia_spec.png,FALSE
-//assets/texture/usn_ssn_virginia_nm.png
+Material=assets/vessels/usn/usn_ssn_virginia/usn_ssn_virginia_mat.mat
+MaterialTextures=vessels/textures/usn_ssn_virginia_tx.png,vessels/textures/usn_ssn_virginia_spec.png,vessels/textures/usn_ssn_virginia_nm.png
 
 Mesh=usn_ssn_virginia_hull
 Mesh=usn_ssn_virginia_sail
@@ -138,7 +137,7 @@ MeshBowPlanes=usn_ssn_virginia_bow_planes
 MeshPosition=0,0.00015,-0.69788
 MeshSternPlanes=usn_ssn_virginia_stern_planes
 
-MeshPosition=0,0,-0.79421
+MeshPosition=0,0,-0.81
 MeshProp=usn_ssn_virginia_prop
 
 
@@ -507,9 +506,6 @@ ModelFile=assets/models/usn_ssn_virginia.fbx
 //Missile Mounts
 MeshRotation=-90,0,0
 
-//Missile Mounts
-MeshRotation=-90,0,0
-
 MeshPosition=-0.068,-0.016,0.68
 MeshMissileMount=FALSE
 MissileEffectPosition=-0.068,-0.016,0.68
@@ -555,7 +551,9 @@ MeshRotation=0,0,0
 MeshPosition=0,-0.055,-0.6
 MeshNoisemakerMount=FALSE
 
-ModelFile=assets/models/usn_ssn_virginia.fbx
+AssetBundle=bundles/vessels/usn/usn_ssn_virginia.unity3d
+ModelFile=assets/vessels/usn/usn_ssn_virginia/usn_ssn_virginia.fbx
+
 //Wake
 //Cavitation
 MeshPosition=0,0,-0.05

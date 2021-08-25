@@ -9,6 +9,7 @@
 <color=Cyan>One versus All</color>
 <color=Cyan>Metal and Ice</color>
 <color=Cyan>The Setting Sun</color>
+<color=Cyan>Opening Shots</color>
 <color=Cyan>Hunters</color>
 <color=Cyan>Opening Shots</color>
 <color=Cyan>Polar Glory</color>

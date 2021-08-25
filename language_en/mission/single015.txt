@@ -1,12 +1,12 @@
-//Red Waters
+//Polar Glory
 
-Image=campaign/images/pact naval 2
-MissionLocation=Denmark Strait
-Briefing=14 MAY 2004
-Briefing=The Red Army has crossed the Fulda Gap and Soviet forces have taken Iceland. With the complete collapse and withdrawal of NATO naval forces near the GIUK Gap, a large raider group has crossed into the Atlantic.
+Image=campaign/images/pact landing 2
+MissionLocation=Southeast of Iceland
+Briefing=6 MAY 2004
+Briefing=Norway has fallen. Soviet air and naval forces continue to penetrate the GIUK Gap daily to target convoys heading for Europe. Soviet forces have now reached the Rhein, and SOSUS has detected a invasion force heading for Iceland.
 Briefing=
 Briefing=Primary Objective:
-Briefing=Sink the capital ships
+Briefing=Sink the landing ships
 Briefing=
 Briefing=Secondary Objective:
 Briefing=Sink the escorting warships

@@ -1,7 +1,9 @@
-Image=campaign/images/plan wolfpack 3
-MissionLocation=Возле Парасельских островов
-Briefing=7 августа 2000
-Briefing=Корабли США продолжают вторгаться в запретную зону вокруг Парасельских островов. Вами получено разрешение на применение оружия без предупреждения.
+//Погоня
+Image=campaign/images/pact surface raiders 2
+MissionLocation=Норвежское море
+Briefing=06 мая 1985г
+Briefing=Попытка незаметно пересечь рубеж SOSUS не удалась - поисковая группа обнаружила вас и теперь придётся принимать бой.
+Briefing=<b>Боевая задача:</b>
+Briefing=- Потопить корабли противника
 Briefing=
-Briefing=Боевая задача:
-Briefing=Потопите вражеские корабли
+Briefing=

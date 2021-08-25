@@ -1,7 +1,7 @@
 Image=campaign/images/plan wolfpack 3
-MissionLocation=Near the Paracel Islands
-Briefing=7 AUG 2000
-Briefing=US naval forces continue to challenge the exclusion zone around the Paracel Islands. Weapons free, you are cleared to engage any US naval vessels in the area without warning.
+MissionLocation=Возле Парасельских островов
+Briefing=7 августа 2000
+Briefing=Корабли США продолжают вторгаться в запретную зону вокруг Парасельских островов. Вами получено разрешение на применение оружия без предупреждения.
 Briefing=
-Briefing=Primary Objective:
-Briefing=Sink enemy warships
+Briefing=Боевая задача:
+Briefing=Потопите вражеские корабли

@@ -1,9 +1,10 @@
-//Busted
-Image=campaign/images/pact surface raiders 2
-MissionLocation=Norvegian Sea
-Briefing=06 MAY 1985
-Briefing=You've been detected while crossing SOSUS barrier and must defend yourself.
+//Priority Target
+Image=campaign/images/photos/carrier_battle_group.jpeg
+MissionLocation=Rockall
+Briefing=28 SEP 1982
 Briefing=
-Briefing=Primary Objective:
-Briefing=Sink enemy ships
+Briefing=You have been ordered to the North Atlantic to hunt for a NATO carrier battlegroup. After several days of searching you've found what you're looking for.
+Briefing=
+Briefing=<b>Primary Objective:</b>
+Briefing=- Sink the carrier
 Briefing=

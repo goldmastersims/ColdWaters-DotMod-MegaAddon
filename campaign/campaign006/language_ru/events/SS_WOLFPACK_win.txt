@@ -1,6 +1,6 @@
 NextAction=MAP
-//Image=campaign/images/pontoon.jpg,campaign/images/Convoy.jpg,campaign/images/598_Surf.jpg
-Image=campaign/images/598_Surf.jpg,campaign/images/637_Surf.jpg,campaign/images/637_Surf2.jpg
+//Image=campaign/images/pontoon.jpg,campaign/images/Convoy.jpg,campaign/images/688_Surf.jpg,campaign/images/virginia_Surf.jpg
+Image=campaign/images/688_Surf.jpg,campaign/images/virginia_Surf.jpg,campaign/images/637_Surf.jpg,campaign/images/637_Surf2.jpg
 Photo=campaign/images/photos/637b.jpg,campaign/images/photos/Unload3.jpg,campaign/images/photos/Port1.jpg
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>

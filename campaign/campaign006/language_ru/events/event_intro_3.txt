@@ -1,0 +1,15 @@
+NextAction=event_intro_4
+Image=campaign/images/backgrounds/Invasion-of-Kuwait.jpg
+Photo=campaign/images/photos/soviet_and_iraqi_diplomats.png
+Music=audio/music/Cold Waters Campaign Victory
+Header=TEXT=August 6, 1990
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Iraq Invades Kuwait, Soviets Back Saddam</b>
+Color=57,61,73,255
+Sentence1=Kuwait City - Earlier this week, Iraqi forces crossed the border into the neighboring country of Kuwait and seized control of the capital. Kuwaiti forces mounted a desperate, short-lived resistance but ultimately failed to stop the invaders. Kuwait and Iraq had previously undergone a territory dispute with Saddam claiming illegal drilling in Iraqi territory.
+Color=218,218,208,255
+Sentence2=The United States issued an ultimatum to Iraq to withdraw from Kuwait. Around this time, the USSR had made statements supporting Iraq and formally announced they would help defend the nation from any outside forces. The United States, not wanting to risk further escalation with the USSR, backed down. Soviet motives are unclear, but NATO has raised readiness levels in West Germany and Norway as a response. Analysts have theorized that this is a Soviet attempt to gain diplomatic and economic control in the region.

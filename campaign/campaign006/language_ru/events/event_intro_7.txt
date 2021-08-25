@@ -1,0 +1,15 @@
+NextAction=event_intro_8
+Image=campaign/images/backgrounds/gorbachev.png
+Photo=campaign/images/photos/gorbachev_2.PNG
+Music=audio/music/Cold Waters Campaign Victory
+Header=TEXT=November 18, 2001
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Gorbachev Announces Retirement</b>
+Color=57,61,73,255
+Sentence1=Earlier today that Soviet Premier Mikhail Gorbachev announced that he would resign in February of 2002, stating that health issues and his wife's death were his deciding factors. Several members of the communist party are pushing to elect Gennady Yanayev as his successor.
+Color=218,218,208,255
+Sentence2=The Soviet state television and radio announcement led to large demonstrations of respect for the Soviet Premier within hours of the report. President McCain, Bush, and Reagan have also announced their support for him. All three Presidents commemorated him on his attempts to help normalize relations between East and West and end the nuclear arms race. In his speech, Gorbachev said he hopes his successor will continue his reforms and work towards better international relations.

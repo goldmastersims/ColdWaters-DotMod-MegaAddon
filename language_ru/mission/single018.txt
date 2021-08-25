@@ -1,12 +1,12 @@
-//Assassins
+//Hunter Killers
 
-Image=campaign/images/TransitBackgrounds/kilo_02.jpg
-MissionLocation=200 Miles North-West of Murmansk
-Briefing=8 MAY 2004
-Briefing=After making a successful cruise missile strike against Murmansk, your submarine makes a dash for the Arctic Ice, where it can safely return to Holy Loch. But you have an odd feeling you're being watched....
+Image=campaign/images/TransitBackgrounds/oscar_04.jpg
+MissionLocation=North-East of the Faroe Islands
+Briefing=21 APR 2004
+Briefing=As tensions rose between East and West, several submarines where ordered to deploy to Europe as quickly as possible. After racing through the North Atlantic, you finally arrive on station, only to hear the third world war had already began. As you and your crew slips beneath the waves to contemplate this, sonar detects an enemy fast-attack wolfpack heading straight for your position. 
 Briefing=
 Briefing=Primary Objective:
-Briefing=Survive
+Briefing=Sink the enemy missile submarine
 Briefing=
 Briefing=Secondary Objective:
-Briefing=Sink the attacking submarines
+Briefing=Sink the escorting submarines

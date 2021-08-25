@@ -1,6 +1,6 @@
 MissionType=LAND_STRIKE
 AllowedOnlyForCostBelow=
-AllowedOnlyForCostHigherThan=1
+AllowedOnlyForCostHigherThan=59
 HoursToStart=0,0
 StartLocation=PLAYER_BASE
 StartAlignment=FRIENDLY

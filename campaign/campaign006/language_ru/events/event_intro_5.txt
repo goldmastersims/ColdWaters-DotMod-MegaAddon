@@ -1,0 +1,15 @@
+NextAction=event_intro_6
+Image=campaign/images/backgrounds/f-16.jpg
+Photo=campaign/images/photos/soviet_carrier_2.png
+Music=audio/music/Cold Waters Campaign Victory
+Header=TEXT=August 6, 1994
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Yugoslavia Collapses, NATO Bombs Bosnia</b>
+Color=57,61,73,255
+Sentence1=Yugoslavia was a country of multiple ethnicities, but after the collapse of the central government and several nations declaring independence, civil strife and attacks against ethnic groups have turned the situation into a crisis. The Soviet Union, which had previously called for “a peaceful resolution to the conflict,” began to make secret agreements with Bosnian and Serbian military and paramilitary forces. The UN has authorized NATO to carry out airstrikes to try and end the chaos.
+Color=218,218,208,255
+Sentence2=The standoff at the Iraqi border and the conflict in Yugoslavia has led analysts to believe that the Cold War will likely continue into the 21st century. The US has started several military reforms across all branches, with President Bush has pushed for more funding in the SDI program. The Soviet military is also taking up modernization efforts and frequently sells off its stockpiles of equipment to foreign nations. Most noticeable, though, is the commissioning of a second full-deck aircraft carrier in 1993.

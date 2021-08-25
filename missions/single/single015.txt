@@ -1,31 +1,30 @@
-//Red Waters
+//Polar Glory
 
 UseTerrain=TRUE
-MapCoordinates=1580,1540
+MapCoordinates=1740,1145
 MapNavigationData=campaign/images/maps/norwegian_sea_navmap
 MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
 WorldObjectsData=campaign/maps/norwegian_sea_world_objects
 VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_2004
 
 //Environment
-Date=14 MAY 2004
+Date=6 MAY 2004
 Hemisphere=North
-Time=1500
+Time=1600
 UsePresetEnvironment=TRUE
 Weather=Clear
 SeaState=LightBreeze
-DuctStrength=VeryWeak
-LayerStrength=Strong
+DuctStrength=Moderate
+LayerStrength=Moderate
 
 //Enemy Ships
-NumberOfEnemyUnits=1-1,1-2,1-1,1-1,1-1,2-2,1-1
-CombatBehaviour=DEFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
-EnemyUnitMissionCritical=TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
-EnemyShipClasses=wp_04_rkr_kirov_modernized_ai,wp_04_bpk_udaloy_modernized_ai,wp_04_bpk_kresta2_modernized_ai,wp_04_bpk_kara_modernized_ai,wp_04_takr_kiev_modernized_ai,wp_04_skr_krivak1_modernized_ai,wp_04_ssn_victor2_modernized|wp_04_ssn_akula1_modernized|wp_04_ssn_sierra_modernized
-FormationCruiseSpeed=24
+NumberOfEnemyUnits=1-1,2-3,3-4,1-1
+CombatBehaviour=DEFENSIVE,OFFENSIVE,DEFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,TRUE,FALSE
+EnemyShipClasses=wp_04_takr_kiev_modernized_ai,wp_04_bpk_udaloy_modernized_ai|wp_04_bpk_kresta2_modernized_ai|wp_04_bpk_kara_modernized_ai,wp_bdk_alligator|wp_bdk_ropucha|wp_vtr_amguema,wp_04_ssn_sierra_modernized|wp_04_ssn_akula1_modernized|wp_14_ssn_yasen
 
 //Enemy Aircraft
-NumberOfHelicopters=4
+NumberOfHelicopters=2
 HelicopterType=wp_helix
 NumberOfAircraft=0
 AircraftType=wp_il-38_may

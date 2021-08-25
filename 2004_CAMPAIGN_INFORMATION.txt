@@ -1,0 +1,43 @@
+Thank you for downloading the official Cold Waters DotMod 2004 Addon! This addon features several new playable subs, weapons, single missions, and a brand new campaign, all set in 2004 of course. 
+This addon takes place in a different timeline where the Soviet Union never collapses, and instead the 1990's sees the modernization and reviving of the Soviet economy, and Cold War tensions only grow to new heights. It all comes to a boiling point in 2003, when Soviet Premier Gennedy Yanayev is poisoned and dies just hours later. Soviet forces engage in a massive 2-month training program, and under the command of a paranoid leader, Soviet forces march into Norway and West Germany.
+In this timeline, the Soviet Navy now operates swarms of highly-advanced nuclear-attack submarines, and dozens of blue-water escorts that will put even the most experienced American sub skipper to the test. You will be forced to start will a borderline obsolete Sturgeon-class SSN, and with a little bit of luck, you can take command of a Virginia or Seawolf, and prowl the ocean depths.
+Currently there is only an American 2004 campaign, but work on a Soviet 2004 campaign should begin in the next month or two (this was originally written on 8/22/21). Soviet submarines are available in their own Quick Mission Editor map, and I might make a couple single missions for them in the mean time. I also plan on adding several new Soviet ship models in the distant future, to increase the number of targets available. If you have any questions, comments, or suggestions, please join the official DotMod Discord server, where the entire team and the 2004 campaign is currently hosted: https://discord.gg/CXfP8Em3Px
+Good Hunting!
+
+Changelog:
+
+1.1 - Critical campaign fixes, new Virginia textures, fixed an error that caused the Russian translation of the NATO 2004 campaign to break, fixed single mission list error - 08/25/21
+1.0 - 2004 Campaign Demo, numerous bug fixes, and the American 2004 Campaign - 08/24/21
+Note: The SIAM and Virginia was originally released as the "Virginia SAM Addon", and was then extended into the "2004 Campaign Demo". Both addons have since been renamed and merged into the official DotMod 2004 Addon.
+
+Install Guide:
+1. Extract all the files from the .zip
+2. Move the "override" folder to Cold Waters/ColdWaters_Data/StreamingAssets
+3. Load the game, and confirm the 2004 Addon is there.
+
+Un-Install Guide:
+1. Travel to Cold Waters/ColdWaters_Data/StreamingAssets
+2. Delete the "override" folder
+
+HELP WANTED
+If you are fluent in Russian, and don't mind several spending mind-numbing hours translating files, please reach out to me on Discord. I will take whatever help I can get here.
+
+Credits
+I, that_person, would like to say a big thank you to the following people for their time, help, and support. But most of all to General_Dave_1, for his help writing the intro events and finding countless obscure photos of Soviet leaders.
+
+that_person: Addon organiser and main developer (virtually everything)
+GSmith63: Provided the base 1990 Campaign, which the US 2004 campaign is based off of
+HobbitJack: Testing and proof-reading, bundled the UGST torpedo model
+Dsmirnoff: Technical advising, provided Soviet force structure 
+General_Dave_1: Assistant writer, proof reader, and "lore advising", testing
+ElectricBoat: Numerous weapon models
+TheHappyYatcher: Provided the UUM-125B Sea Lance capsule and missile, as well as the Mk-50 torpedo model
+SteelShark: Provided numerous weapon sprites
+Kevin DDSSTT: Virginia texture and testing
+goldmastersimulations: Testing
+Dot: Bundled and imported numerous weapon and ship models, campaign debugging
+
+License:
+This addon/mod is freeware. You can reuse any models except the following: UUM-125B Sea Lance, Mk-50 torpedo, UMGT-1, UMGT-1M, Mk-48 ACOT, 65-76 "Whale", SAET-60M, AT-2, RPK-2 "Vjuga", RPK-2 "Vjuga-65", RPK-6 "Vodopad", and the SS-N-16M. I do ask that I be credited for my work though. Seeing as I am the mod creator, I also hold copyright to this addon, and I therefore have two (2) additonal rules:
+1. No part of this addon/mod may be distributed, modified, or used by Epic Mod under ANY circumstances.
+2. If you are going to modify or edit the campaign, and release it to the public, please provide a link to this campaign, and add me to the credits section. 

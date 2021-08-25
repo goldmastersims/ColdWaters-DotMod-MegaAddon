@@ -56,7 +56,6 @@ Alignment=FRIENDLY
 ConnectedZones=ND1,WG3
 InvadedBy=SEA,FRIENDLY
 
-
 **************DENMARK**************
 //Copenhagen
 WaypointName=D1
@@ -132,7 +131,6 @@ WaypointName=S2
 WaypointPosition=105.9,-179.8
 Alignment=FRIENDLY
 ConnectedZones=S1,N7
-
 
 **************POLAND**************
 //Warsaw and the Krakow area

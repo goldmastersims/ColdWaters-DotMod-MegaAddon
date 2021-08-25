@@ -1,12 +1,12 @@
-//Hunting the Arctic Wolf
+//Red Waters
 
-Image=campaign/images/pact ssbn
-MissionLocation=North of Svalbard
-Briefing=23 APR 2004
-Briefing=Soviet ballistic missile submarines are operating under the Arctic ice cap. SIGINT has intercepted a communiqué pinpointing the location of a Typhoon and its bastion. You are ordered to intercept and destroy the SSBN. NOTICE: UNDER ICE MISSIONS FREQUENTLY BREAK, AND FREEZE THE GAME. THIS IS ONE OF THOSE MISSIONS. THERE WILL BE A FIX EVENTUALLY.
+Image=campaign/images/pact naval 2
+MissionLocation=Denmark Strait
+Briefing=14 MAY 2004
+Briefing=The Red Army has crossed the Fulda Gap and Soviet forces have taken Iceland. With the complete collapse and withdrawal of NATO naval forces near the GIUK Gap, a large raider group has crossed into the Atlantic.
 Briefing=
 Briefing=Primary Objective:
-Briefing=Sink the Typhoon
+Briefing=Sink the capital ships
 Briefing=
 Briefing=Secondary Objective:
-Briefing=Sink the escorting submarines
+Briefing=Sink the escorting warships

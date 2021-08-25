@@ -1,12 +1,12 @@
-//Hunter Killers
+//Hunting the Arctic Wolf
 
-Image=campaign/images/TransitBackgrounds/oscar_04.jpg
-MissionLocation=North-East of the Faroe Islands
-Briefing=21 APR 2004
-Briefing=As tensions rose between East and West, several submarines where ordered to deploy to Europe as quickly as possible. After racing through the North Atlantic, you finally arrive on station, only to hear the third world war had already began. As you and your crew slips beneath the waves to contemplate this, sonar detects an enemy fast-attack wolfpack heading straight for your position. 
+Image=campaign/images/pact ssbn
+MissionLocation=North of Svalbard
+Briefing=23 APR 2004
+Briefing=Soviet ballistic missile submarines are operating under the Arctic ice cap. SIGINT has intercepted a communiqué pinpointing the location of a Typhoon and its bastion. You are ordered to intercept and destroy the SSBN. NOTICE: UNDER ICE MISSIONS FREQUENTLY BREAK, AND FREEZE THE GAME. THIS IS ONE OF THOSE MISSIONS. THERE WILL BE A FIX EVENTUALLY.
 Briefing=
 Briefing=Primary Objective:
-Briefing=Sink the enemy missile submarine
+Briefing=Sink the Typhoon
 Briefing=
 Briefing=Secondary Objective:
 Briefing=Sink the escorting submarines

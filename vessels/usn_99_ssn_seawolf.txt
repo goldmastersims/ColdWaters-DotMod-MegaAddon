@@ -115,8 +115,8 @@ MeshHullCollider=usn_ssn_seawolf_coll_hull
 MeshSuperstructureCollider=usn_ssn_seawolf_coll_ss
 
 Material=ships/usn_ssn_seawolf/usn_ssn_seawolf_mat
-MaterialTextures=ships/usn_ssn_seawolf/usn_ssn_seawolf_tx,ships/usn_ssn_seawolf/usn_ssn_seawolf_spec,ships/usn_ssn_seawolf/usn_ssn_seawolf_nm
-//vessels/textures/usn_ssn_seawolf_red_tx.png,ships/usn_ssn_seawolf/usn_ssn_seawolf_spec,ships/usn_ssn_seawolf/usn_ssn_seawolf_nm
+MaterialTextures=//vessels/textures/usn_ssn_seawolf_tx.png,ships/usn_ssn_seawolf/usn_ssn_seawolf_spec,ships/usn_ssn_seawolf/usn_ssn_seawolf_nm
+//vessels/textures/usn_ssn_seawolf_tx.png,ships/usn_ssn_seawolf/usn_ssn_seawolf_spec,ships/usn_ssn_seawolf/usn_ssn_seawolf_nm
 Mesh=usn_ssn_seawolf
 MeshPosition=0,0,-0.651
 MeshRudder=usn_ssn_seawolf_rudders
