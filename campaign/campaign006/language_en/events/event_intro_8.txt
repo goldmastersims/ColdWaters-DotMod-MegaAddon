@@ -1,0 +1,15 @@
+NextAction=event_intro_9
+Image=campaign/images/backgrounds/gorbachev_and_yanayev.jpg
+Photo=campaign/images/photos/Gennady_Yanayev.jpg
+Music=audio/music/Cold Waters Campaign Victory
+Header=TEXT=February 9, 2002
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Yanayev Replaces Gorbachev</b>
+Color=57,61,73,255
+Sentence1=Earlier today, Soviet Premier Mikhail Gorbachev officially resigned from the office of General Secretary of the Communist Party after serving for some 17 years. Gorbachev was the longest General Secretary to stay in office and will be remembered as "a kind man who worked towards peace with the west, and was one of the few who worked for the benefit of the people." Gorbachev made good friends with several western leaders, and several of them have sent their regards and well wishes. Later today, he will be boarding a plane for the Caucasus, where he will retire.
+Color=218,218,208,255
+Sentence2=Tomorrow, Gennady Yanayev will be sworn in as the General Secretary of the Communist Party in the halls of the Kremlin. The new Soviet leader is a communist hardliner who was against Gorbachev's reforms but slowly eased his way into them. He has announced he will likely roll back some of Gorbachev's reforms and replace them with more "Leninist" policies. Yanayev has also announced that Vladimir Kryuchkov, the former head of the KGB, was elected as the Deputy General Secretary.

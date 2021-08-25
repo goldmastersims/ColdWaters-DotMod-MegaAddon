@@ -1,0 +1,13 @@
+NextAction=event_campaign_win_3
+Image=campaign/images/backgrounds/soviet_security_troops.PNG
+Photo=campaign/images/photos/kryuchkov_arrested.PNG
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>KRYUCHKOV OVERTHROWN BY THE ARMY & KGB</b>
+Sentence1=Earlier today, a joint KGB and Red Army task force stormed the Moscow International Airport and arrested Soviet Premier Vladimir Kryuchkov on charges of murder, treason, conspiracy, and treason against the state. Several bystanders watched as he was taken away in handcuffs, ending all chances for him to flee the country. The newly formed State Emergency committee has taken over government control and is doing its best to hold the now fragile state together. Former Soviet Premier Mikhail Gorbachev has given his full support for the new government and announced his willingness to lead the Soviet people once again.
+Sentence2=International reactions to the coup vary, but there is general agreement that this should hopefully set the Soviet Union on a new path and end the Third World War. Already protesters in several Soviet states have announced their intention to succeed from the USSR, and there have been minimal attempts to stop this. Curfews have been implemented around the country, and all Soviet troops have been recalled from abroad.

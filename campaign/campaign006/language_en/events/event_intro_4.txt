@@ -1,0 +1,15 @@
+NextAction=event_intro_5
+Image=campaign/images/backgrounds/george_bush_2.PNG
+Photo=campaign/images/photos/sdi.jpg
+Music=audio/music/Cold Waters Campaign Victory
+Header=TEXT=November 6, 1992
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Bush Beats Clinton</b>
+Color=57,61,73,255
+Sentence1=It has been three days since President-Elect George Bush Sr. beat the Democratic candidate Bill Clinton in the 1992 Presidential Election. Bush, Ronald Reagan's Vice-President, was determined to uphold his anti-communist foreign policy agenda and promises to restart the space race. Clinton, who favored a 'detente' approach, appears to have lost his support after the Iraqi annexation of Kuwait and the economic recession that followed.
+Color=218,218,208,255
+Sentence2=With analysts and news reporters calling the rising tensions 'The Third Red Scare,' the US and its allies have announced a new foreign policy to help contain the spread of communism throughout the world. More and more countries have been falling into the communist sphere, such as, most recently, Indonesia. Bush and his VP John McCain have their work cut out for them to counter communist influence throughout the world.  Bush stated in a press conference that he would resume the SDI program and increase the defense budget; this has prompted many to call this a restart of the Cold War.

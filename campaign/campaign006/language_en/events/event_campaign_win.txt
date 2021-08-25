@@ -1,0 +1,15 @@
+NextAction=event_campaign_win_2
+Image=campaign/images/backgrounds/soviet_general.PNG
+Photo=campaign/images/photos/riot 1,campaign/images/photos/riot 2,campaign/images/photos/protests 1,campaign/images/photos/protests 2
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>KRYUCHKOV MURDERED YANAYEV?</b>
+Sentence1=Earlier today, the Soviet Minister of Defense went on Soviet state television and radio, calling for all troops to lay down their arms and stop the offensive into NATO countries. He then publicly displayed proof that disproves Soviet Premier Vladimir Kryuchkov's claims that Norway and West Germany were behind the murder of Yanayev but instead implicated Kryuchkov himself. While the evidence is yet to be proven genuine and credible, Soviet troops have obeyed his orders, and several entire Soviet armies have surrendered to NATO forces. 
+Sentence2=Recent events have led to the complete collapse of the Soviet line, and political destabilization behind the Iron Curtain has had a noticeable trickle-down effect on the front lines. NATO forces have taken advantage of the situation. Soviet opposition appears to be wavering as defections across the lines into the West are increasing day by day.
+
+	

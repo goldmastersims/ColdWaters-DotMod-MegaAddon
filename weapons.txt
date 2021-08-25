@@ -4836,7 +4836,7 @@ DepthWeaponRange=100,33000
 DepthWeaponNumberFired=3
 DepthWeaponRateOfFire=0.1
 DepthWeaponReloadTime=10
-DepthWeaponVelocity=5.2
+DepthWeaponVelocity=5.3
 DepthWeaponAccuracy=1
 
 DepthWeaponObjectReference=wp_ak-130_shell
@@ -4845,7 +4845,7 @@ DepthWeaponRange=100,25200
 DepthWeaponNumberFired=20
 DepthWeaponRateOfFire=1.5
 DepthWeaponReloadTime=30
-DepthWeaponVelocity=5.2
+DepthWeaponVelocity=5.3
 DepthWeaponAccuracy=1
 
 DepthWeaponObjectReference=wp_sm2_shell
@@ -4897,24 +4897,26 @@ DepthWeaponAccuracy=1
 //=   2. USA
 
 //Naval Guns
+//Mark 7 - checked
 DepthWeaponObjectReference=usn_mark_7_shell
-DepthWeaponWarhead=28
+DepthWeaponWarhead=32
 DepthWeaponRange=100,41622
 DepthWeaponNumberFired=3
 DepthWeaponRateOfFire=0.15
 DepthWeaponReloadTime=30
-DepthWeaponVelocity=5.2
+DepthWeaponVelocity=5.96
 DepthWeaponAccuracy=1.5
 DepthWeaponTrainRate=0.2
 DepthWeaponMortarPositions=-0.036,0,0.036
 
+//Mark 42 - 45° checked
 DepthWeaponObjectReference=usn_mark_42_shell
 DepthWeaponWarhead=15
 DepthWeaponRange=100,25900
 DepthWeaponNumberFired=40
 DepthWeaponRateOfFire=1.5
 DepthWeaponReloadTime=30
-DepthWeaponVelocity=8.08
+DepthWeaponVelocity=4.7
 DepthWeaponAccuracy=1
 
 DepthWeaponObjectReference=usn_mark_75_shell

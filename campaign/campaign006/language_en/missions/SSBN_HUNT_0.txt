@@ -1,0 +1,22 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+INTELLEGENCE SOURCES HAVE UNCOVERED INFORMATION SUGGESTING THE REDS PLAN TO SEND AN SSBN GROUP TO THE POLAR ICE CAPS. IT IS EXPECTED TO SAIL FROM <STARTLOCATION> WITHIN THE NEXT FEW HOURS. THIS IS A TARGET OF OPPORTUNITY THAT NEEDS TO BE DELT WITH IMMEDIATLY, TIME IS OF THE ESSENCE. 
+
+2.	(S) PRIMARY OBJECTIVE:
+TRANSIT TO PATROL AREA **RED 640**.  LOCATE AND SINK THE ENEMY BALLISTIC MISSILE SUBMARINES.
+
+3.	(S) SECONDARY OBJECTIVE:
+NONE
+
+4.	(S) AVOID DETECTION BY ENEMY ASW PATROLS
+
+5.	(S) ROE: WARNING YELLOW, WEAPONS FREE ON DESIGNATED TARGETS
+
+6.	(S) EMCON - MAINTAIN RADIO SILENCE UNTIL OTHERWISE DIRECTED
+
+[MISSION WIN]
+Excellent job on intercepting and destroying this crucial target.  You have significantly degraded the enemy's ability to conduct a surprise strategic nuclear attack.
+[MISSION FAIL]
+Your poor performance has made the unthinkable more likely, and opened us up to the possibility of a surprise nuclear strike.  You're failure to intercept the SSBN has given the enemy a massive bargaining token, and they are threatening nuclear war now.
+[MISSION MISSED]
+Your poor performance has made the unthinkable more likely, and opened us up to the possibility of a surprise nuclear strike.   You're failure to intercept the SSBN has given the enemy a massive bargaining token, and they are threatening nuclear war now. Expect a court martial when you return.

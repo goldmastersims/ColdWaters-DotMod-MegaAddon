@@ -1,0 +1,15 @@
+NextAction=event_intro_7
+Image=campaign/images/backgrounds/moon_landing.png
+Photo=campaign/images/photos/space_station_freedom.png
+Music=audio/music/Cold Waters Campaign Victory
+Header=TEXT=September 12, 2000
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Eagle Returns to the Moon</b>
+Color=57,61,73,255
+Sentence1=It has been mere hours since three American astronauts have once again landed on the Moon to plant the American flag on the lunar surface. Part of the Polaris Program, these missions are part of President Bush’s Space Exploration Initiative (SEI), and where granted funding when re-elected in 1992. His successor, John McCain, has also elected to keep this space policy and use it as a political tool against the Soviets.
+Color=218,218,208,255
+Sentence2=The SEI program, proposed just three years after the Columbia disaster but only granted funding in 1992, is a complex plan to set the US up for future space travel and exploration success. The program has helped significantly reduce the cost of space flight, making it easier to move components for the SDI program into orbit. One of its many projects, the Space Station Freedom, was initially commissioned in 1998. It has served as a testing ground for new technologies and experiments and the halfway point between the Earth and the Moon. President Bush, who initially set a goal for Americans to return to the Moon by 2001, has commemorated the occasion and has challenged NASA and Congress to build a lunar base by 2010 and land an American on Mars by 2020.

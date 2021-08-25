@@ -1,0 +1,19 @@
+NextAction=event_intro_11
+Image=campaign/images/backgrounds/yanayev_2.PNG
+Photo=campaign/images/photos/moscow_security_1.PNG
+Music=audio/music/Cold Waters Campaign Victory
+Header=TEXT=November 16, 2003
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Yanayev Dead, Kremlin in Chaos</b>
+Color=57,61,73,255
+Sentence1=Earlier today, a Soviet press secretary went on national TV and radio announcing that General Secretary Gennady Yanayev had been poisoned and died four hours later in a Moscow military hospital. Officials declined to answer any questions, but reporters in Moscow have seen masses of KGB and Red Army soldiers and armor swarming the city's streets. Several journalists have been barred from government buildings, and several have been detained for questioning. 
+Color=218,218,208,255	
+Sentence2=As the Kremlin appears to descend into chaos and confusion, Deputy Secretary Vladimir Kryuchkov has stepped up to replace Yanayev. While no one has yet to take the blame, Kryuchkov is regarded with worry in the west. He was one of the first to advocate for a nuclear strike against NATO in the Able Archer '83 crisis; believing NATO was preparing for a first strike against the Warsaw Pact.
+
+
+
+	

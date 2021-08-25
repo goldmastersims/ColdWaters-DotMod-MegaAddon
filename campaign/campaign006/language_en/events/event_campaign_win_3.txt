@@ -1,0 +1,13 @@
+NextAction=event_campaign_win_4
+Image=campaign/images/backgrounds/gorbachev_1.jpg
+Photo=campaign/images/photos/protests 2
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>GORBACHEV TAKES OVER</b>
+Sentence1=It has been just one week since Soviet Premier Mikhael Gorbachev once again took the office of the General Secretary of the Communist Party. Gorbachev came out of retirement at the State Emergency Committee's request to help stabilize the country and government. So far, he has called several emergency meetings with representatives from all 15 Soviet Republics and signed a quick and uneasy peace with the West, officially ending the Third World War.
+Sentence2=Civil protests appear to have calmed in the wake of his arrival - a man the Soviet public trusts is once again in power. Several countries from around the world, including the United States and The United Kingdom, now recognize Mikhail Gorbachev as the legitimate leader of the Soviet Union and have announced their full support for the General Secretary. Leaked documents from inside the Kremlin appear to show Gorbachev is now seriously considering dissolving the Soviet Union or, at the very least, the Communist Party and allowing states to declare their independence.

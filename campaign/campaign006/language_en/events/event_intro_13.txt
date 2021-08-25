@@ -1,0 +1,15 @@
+NextAction=MAP
+Image=campaign/images/pact ground 1,campaign/images/pact ground 2,campaign/images/pact ground 3,campaign/images/pact ground 4,campaign/images/pact ground 5
+Photo=campaign/images/photos/nato_supercarrier_sunk.PNG
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Soviets Invade Norway and W. Germany</b>
+Color=57,61,73,255
+Sentence1=At exactly 2:15 AM, Central European Time (GMT+2), Soviet and East German artillery opened fire on West German border positions. Soviet forces have also made several amphibious and airborne assaults against northern Norway and Finland. The USS Constellation (CV-64), reportedly near Narvik, Norway, was sunk by a volley of anti-ship missiles fired from submarines and bombers. NATO casualties in Europe are reportedly high, but Soviet forces are facing stiff resistance. American, British, and French troops in West Berlin engaged in several brief skirmishes with Soviet soldiers before ultimately surrendering to "preserve human life and property in Berlin." 
+Color=218,218,208,255
+Sentence2=The US Congress was quick to vote on the Declaration of War, as all attempts to save the situation have come to a standstill. Soviet motives are unclear, but with the recent Soviet posturing, analysts say it is a well-planned, coordinated attack. Foreigners in the USSR have been rounded up and are being put on planes to neutral India, where they will return to their home countries. Former General Secretary Gorbachev has denounced Kryuchkov and his most recent actions, claiming that he has undone decades of international relations and has "gone out of his way to ensure total control of the Soviet Union with no regard for its people's wellbeing." The very future of Europe and modern civilization as we know it now hangs in the balance.

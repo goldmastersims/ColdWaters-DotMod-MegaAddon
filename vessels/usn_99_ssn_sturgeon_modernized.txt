@@ -46,7 +46,7 @@ MissilesPerLauncher=3,3
 
 TorpedoTypes=usn_mk48_adcap,usn_moss,usn_uum-125b,usn_ugm84,usn_tasm,usn_tlam
 Loadout_1=usn_mk48_acot,usn_moss,usn_uum-125b,usn_ugm84,usn_tasm,usn_tlam
-TorpedoNumbers=12,1,4,6,0,0
+TorpedoNumbers=12,3,2,6,0,0
 TorpedoTubes=4
 NumberOfWires=2
 TubeConfig=1,1,1,1

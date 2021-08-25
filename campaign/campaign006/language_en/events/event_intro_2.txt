@@ -1,0 +1,15 @@
+NextAction=event_intro_3
+Image=campaign/images/backgrounds/inf_treaty_signing.jpg
+Photo=campaign/images/photos/soviet_mobile_launcher.jpg
+Music=audio/music/Cold Waters Campaign Victory
+Header=TEXT=December 8, 1987
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Gorbachev and Reagan Sign INF Treaty</b>
+Color=57,61,73,255
+Sentence1=Yesterday - American President Ronald Reagan and Soviet Premier Mikhail Gorbachev publicly signed the Intermediate-Range Nuclear Forces Treaty to reduce the number of tactical nuclear weapons in each nation's arsenal. A recent TIME article has called this a "momentous event in the right direction" and has expressed hopes that the threat of nuclear war is finally at an end.
+Color=218,218,208,255
+Sentence2=In recent years the Soviet economy has begun to recover and has started to grow again. The USSR completely withdrew from Afghanistan in 1986, ending what some have described as "The Soviet Union's Vietnam." The Soviet Union has made several major arms sales to Iraq and other developing nations, and has recently started trade negotiations with several countries in Southeast Asia, which has freed up large sums of money for the Soviet Armed Forces that can be put elsewhere.

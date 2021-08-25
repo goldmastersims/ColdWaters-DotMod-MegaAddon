@@ -1,0 +1,15 @@
+NextAction=event_intro_13
+Image=campaign/images/backgrounds/kryuchkov.PNG
+Photo=campaign/images/photos/yanayev_3.PNG
+Music=audio/music/Cold Waters Campaign Victory
+Header=TEXT=April 2, 2004
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Kryuchkov Accuses West of Murder</b>
+Color=57,61,73,255
+Sentence1=Moscow, RSFR - In a startling press conference, Soviet General Secretary Vladimir Yanayev announced that West German and Norwegian intelligence agents had murdered the now deceased General Secretary Yanayev. While Kryuchkov refused to give any direct evidence, he stated that "irrefutable evidence clearly shows that sleeper agents from Norway and West Germany had poisoned and murdered comrade Yanayev." While neither of the accused governments has responded yet, they are looking to publicly announce after conferring with NATO intelligence on the alleged claims launched against them.
+Color=218,218,208,255
+Sentence2=The Soviet public appears to be in a state of confusion and anger at these recent allegations, and already several government leaders are calling for economic and political sanctions against West Germany and Norway. Internationally, several nations have expressed deep concern and worry at these accusations but are wishing for a peaceful resolution for both sides. American President John McCain has called the allegations "deeply disturbing and of the up-most concern." But, he has warned the Soviet Premier that if he does make any offensive military actions against NATO members, the US will retailiate with equal force.
