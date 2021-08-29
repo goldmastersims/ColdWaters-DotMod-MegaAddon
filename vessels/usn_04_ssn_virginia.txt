@@ -128,7 +128,7 @@ Mesh=usn_ssn_virginia_chin_sonar
 Mesh=usn_ssn_virginia_stern_plane_stubs
 Mesh=usn_ssn_virginia_prop_shroud
 
-MeshPosition=0,0.04039,-0.68763
+MeshPosition=0,0.0415,-0.68763
 MeshRudder=usn_ssn_virginia_rudder
 
 MeshPosition=0,0,0.6311721
