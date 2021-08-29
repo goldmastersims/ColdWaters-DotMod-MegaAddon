@@ -1,4 +1,5 @@
 [Unit Reference]
-ShipClass=Coast .F
+ShipClass=Coast. Freightor
+ShipClassShort=Freightor
 Description=Coastal Freighter
 History=Small cargo ships can commonly be found in and around coastal areas where they make up the bulk of regional and feeder traffic.

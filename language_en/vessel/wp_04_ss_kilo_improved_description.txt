@@ -1,7 +1,8 @@
 [Unit Reference]
-ShipClass=Kilo Imp=Kilo (Imp)
+ShipClass=Kilo (Improved)
+ShipClassShort=Kilo (Imp)
 Description=Kilo-class Diesel-Electric Submarine (Improved)
-History=This is the latest and most advanced diesel-electric submarine built by the Soviets. Compared to earlier designs, the Kilo has adopted the Albacore-hull form, which makes it much faster underwater. It is also much quieter, and carries weapons and sensors on par with the third-generation nuclear attack submarines like the Victor III.
+History=During the late 1980s and early 1990s, Sovier design bureaus began looking for ways to improve the already mass-produced Kilo design. Improvements to speed, firecontrol, and quieting where all made tot he design touted as the "Improved Kilo" or "Kilo II". Very quickly these ships gained a large number of export sales, which would help boost the Soviet economy and defense budget, and it wasn't long before the Sovier Navy ordered several of these vessels for themselves. By 2004, about a quarter of the Soviet diesel-electric submarine force is made up of Improved Kilos. These vessels are incredibly quiet and stealthy, making them perfect to ambush NATO submarines operating in shallow water.
 
 [Player Ship Instances]
 PlayerClassNames=Novosibirsk,,Chita,Vyborg,,

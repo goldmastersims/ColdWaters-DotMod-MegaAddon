@@ -1,4 +1,5 @@
 [Unit Reference]
-ShipClass=PW cargo
-Description=Post-war large cargo ship
+ShipClass=Dry-Cargo Ship
+ShipClassShort=Cargo Ship
+Description=Post-War Large Cargo Ship
 History=These are typical post-war dry-cargo ships. Powerful steam turbines make them capable of faster speeds than their wartime counterparts. They are of traditional house/engine room center design with hatches forward and aft.

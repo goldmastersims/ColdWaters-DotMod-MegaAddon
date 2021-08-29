@@ -1,9 +1,9 @@
 [Unit Reference]
-ShipClass=Victor III (Modernized)
-ShipClassShort=Victor III (Mod)
+ShipClass=Victor III (Mod)
+ShipClassShort=Victor III (M)
 Description=Victor III-class Nuclear Attack Submarine (Modernized)
 
-History=These boats represent the ultimate evolution of the Victor-class submarine. They were the first boats to be given a towed array, and they were the first to be built with improved quieting features such as raft-mounted machinery. Originally designed with an offset tandem propeller, they have since been upgraded with reduced-cavitation propellers. The entire group are also fitted with fire control for the SS-N-16 standoff ASW missile.
+History=These boats represent the ultimate evolution of the Victor-class submarine. They were the first boats to be given a towed array, and they were the first to be built with improved quieting features such as raft-mounted machinery. Originally designed with an offset tandem propeller, they have since been upgraded with reduced-cavitation propellers. The entire group are also fitted with fire control for the SS-N-16 standoff ASW missile. Despite being outclassed by the newest generation of Soviet and American subs, modernizations in the 1990s make them highly dangerous to negligent NATO submarine captains.
 
 [Player Ship Instances]
 PlayerClassNames=Zapadnaya Litsa,,Volgograd,,,Murmansky komsomolets

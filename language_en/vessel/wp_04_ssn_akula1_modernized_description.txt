@@ -1,8 +1,7 @@
 [Unit Reference]
-ShipClass=Akula1 Mod
-=Akula (Mod)
-Description=Akula-class Nuclear Attack Submarine (Modernized)
-History=This is one of the latest and most advanced Soviet submarine designs. It is larger than the Sierra, due to using steel for construction instead of much more expensive titanium. The Soviets put this increased size to use for even better quieting, more weapons and an improved sonar suite. These boats are nearly the equal of the SSN-21 Seawolf.
+ShipClass=Akula (Imp)
+Description=Akula-class Nuclear Attack Submarine (Imp)
+History=Following the first Akula I units entering service in 1984 and 1985, several additional orders where placed for additonal Akula-class boats in an attempt to modernize the Soviet Navy's nuclear submarine force. Despite being incredibly costly however, they where still not on par with NATO submarines in terms of sonar and firecontrol, resulting in additional boats being procured under the Akula II and III programs. The Akula III's are estimated to have a noise level comparable to that of a base 688, making them very dangerous, but still not quite equals to American submarines. The earlier Akula I's where later modernized to Akula II standards, and the entire class recieved the name "Improved Akulas" as a result. Despite shortcomings in noise and sonar capabilites, these are evened out by its large torpedo stores of advanced weapons, 600 meter test depth, and 35 knot top speed, still making these boats incredibly lethal.
 
 [Player Ship Instances]
 

@@ -1,5 +1,5 @@
 [Unit Reference]
-ShipClass=Delta IV (Modernized)
-ShipClassShort=Delta IV (Mod)
+ShipClass=Delta IV (Mod)
+ShipClassShort=Delta IV (M)
 Description=Delta IV-class Nuclear Ballistic Missile Submarine (Modernized)
-History=Although externally similar to the earlier Delta-class boats, this is largely an entirely new, third-generation submarine design. These submarines are larger, carry a larger missile, and have enhanced quieting features compared to earlier classes. In addition, they are also designed to operate under and surface through ice, making them difficult to find should they be allowed to transit to their operating areas.
+History=Although externally similar to the earlier Delta-class boats, this is largely an entirely new, third-generation submarine design. These submarines are larger, carry a larger missile, and have enhanced quieting features compared to earlier classes. In addition, they are also designed to operate under and surface through ice, making them difficult to find should they be allowed to transit to their operating areas. In the 1990's and 2000's, they recieved numerous electronics upgrades that allows them to fire the most modern Soviet weaponry.

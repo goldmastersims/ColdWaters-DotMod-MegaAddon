@@ -1,9 +1,9 @@
 [Unit Reference]
-ShipClass=Victor2 Mod
-=Victor II (Mod)
+ShipClass=Victor II (Mod)
+ShipClassShort=Victor II (M)
 Description=Victor II-class Nuclear Attack Submarine (Modernized)
 
-History=The seven boats in this class were the result of an effort to redesign the Victor class for the new pro-submarine mission of the 1970's. Although they lack towed arrays and are only somewhat quieter than Victor I's and somewhat slower, the main upgrade is the capability to fire the SS-N-15 stand-off ASW missile, which make these far more dangerous opponents, should they be able to detect you.
+History=The seven boats in this class were the result of an effort to redesign the Victor class for the new pro-submarine mission of the 1970's. Although they lack towed arrays and are only somewhat quieter than Victor I's and somewhat slower, the main upgrade is the capability to fire the SS-N-15 stand-off ASW missile, which make these far more dangerous opponents, should they be able to detect you. Despite being borderline obsolete in the 1990s, they where retained for training purposes, and would likely see wartime use in the Norwegian Sea.
 
 [Player Ship Instances]
 PlayerClassNames=,,,,,,

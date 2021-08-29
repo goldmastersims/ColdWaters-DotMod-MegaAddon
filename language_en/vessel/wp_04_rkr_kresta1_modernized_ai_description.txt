@@ -1,5 +1,5 @@
 [Unit Reference]
-ShipClass=Kresta1 Mod
-=Kresta I (Mod)
+ShipClass=Kresta I (Mod)
+ShipClassShort=Kresta I (M)
 Description=Kresta I-class Guided Missile Cruiser (Modernized)
-History=This class was designed as a larger and more capable successor to the Kynda-class missile cruisers, which turned out top-heavy and too cramped. The Kresta I is intended for the anti-ship role but has much improved capabilities for anti-air and anti-submarine warfare. If these ships are allowed into the North Atlantic convoy routes they could prove a real threat to NATO as raiders.
+History=This class was designed as a larger and more capable successor to the Kynda-class missile cruisers, which turned out top-heavy and too cramped. The Kresta I is intended for the anti-ship role but has much improved capabilities for anti-air and anti-submarine warfare. These ships are among the oldest in the Soviet fleet, and are on their way out, but have recently been used in several flag-showing and diplomatic cruises.

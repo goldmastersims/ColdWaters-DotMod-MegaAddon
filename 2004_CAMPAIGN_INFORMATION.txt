@@ -6,6 +6,7 @@ Good Hunting!
 
 Changelog:
 
+1.2 - Shortened Soviet vessel names, rewrite several vessel description files, added new sprites by Steel Shark - 8/29/21
 1.1 - Critical campaign fixes, new Virginia textures, fixed an error that caused the Russian translation of the NATO 2004 campaign to break, fixed single mission list error - 08/25/21
 1.0 - 2004 Campaign Demo, numerous bug fixes, and the American 2004 Campaign - 08/24/21
 Note: The SIAM and Virginia was originally released as the "Virginia SAM Addon", and was then extended into the "2004 Campaign Demo". Both addons have since been renamed and merged into the official DotMod 2004 Addon.

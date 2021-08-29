@@ -1,4 +1,5 @@
 [Unit Reference]
-ShipClass=act 1
-Description=Large container ship
+ShipClass=L. Container Ship
+ShipClassShort=Cont. Ship
+Description=Large Container Ship
 History=These are first-generation container ships, with cargo capacity of about 1900 TEU. Compared to traditional break-bulk cargo ships, containerization enabled these ships to be loaded with a full complement of cargo in a fraction of the time, using much smaller dock crews. They would eventually completely replace the dry cargo ship, to become the predominant type of cargo vessel.

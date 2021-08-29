@@ -1,5 +1,5 @@
 [Unit Reference]
-ShipClass=Typhoon (Modernized)
-ShipClassShort=Typhoon (Mod)
+ShipClass=Typhoon (Mod)
+ShipClassShort=Typhoon (M)
 Description=Typhoon-class Nuclear Ballistic Missile Submarine (Modernized)
-History=These are the largest submarines ever built. They feature an innovative parallel pressure hull layout, and are designed to operate for prolonged periods under the Arctic icepack. Compared to the Delta class, they are a huge improvement in capability, with better quieting, better survivability, more weapons and carrying missiles of greater accuracy.
+History=These are the largest submarines ever built. They feature an innovative parallel pressure hull layout, and are designed to operate for prolonged periods under the Arctic icepack. Compared to the Delta class, they are a huge improvement in capability, with better quieting, better survivability, more weapons and carrying missiles of greater accuracy. In the 1990's and 2000's, they recieved numerous electronics upgrades that allows them to fire the most modern Soviet weaponry.

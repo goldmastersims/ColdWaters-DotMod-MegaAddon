@@ -114,7 +114,7 @@ MeshSuperstructureCollider=wp_ssn_akula1_coll_ss
 
 Material=ships/wp_ssn_akula1/wp_ssn_akula1_mat
 -MaterialTextures=ships/wp_ssn_akula1/wp_ssn_akula1_tx,ships/wp_ssn_akula1/wp_ssn_akula1_spec,ships/wp_ssn_akula1/wp_ssn_akula1_nm
-MaterialTextures=vessels/textures/wp_ssn_akula.png,ships/wp_ssn_akula1/wp_ssn_akula1_spec,ships/wp_ssn_akula1/wp_ssn_akula1_nm
+MaterialTextures=vessels/textures/wp_ssn_akula1_imp_tx.png,ships/wp_ssn_akula1/wp_ssn_akula1_spec,ships/wp_ssn_akula1/wp_ssn_akula1_nm
 
 Mesh=wp_ssn_akula1
 //Mesh=wp_ssn_akula1_crest

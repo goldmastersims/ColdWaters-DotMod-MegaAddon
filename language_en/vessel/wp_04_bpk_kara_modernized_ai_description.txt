@@ -1,6 +1,6 @@
 [Unit Reference]
-ShipClass=Kara Mod
-=Kara (Mod)
+ShipClass=Kara (Mod)
+ShipClassShort=Kara (M)
 Description=Kara-class Large Anti-Submarine Ship (Modernized)
-Aircraft=1 Ka-25 Hormone ASW helicopter
-History=This class is an enlarged and improved derivative of the Kresta II design. Gas turbines have replaced the earlier steam plants, and the ships carry more extensive command and control spaces. The ASW weapons fit is identical to that of the Kresta II but AA capabilities have been improved with the addition of SA-N-4 launchers amidships. The larger size of the hull has also made it possible to fit these ships with both the Bull Nose bow sonar as well as the Mare Tail variable depth sonar also found on the Krivaks.
+Aircraft=1 Ka-27 Hormone ASW helicopter
+History=This class is an enlarged and improved derivative of the Kresta II design. Gas turbines have replaced the earlier steam plants, and the ships carry more extensive command and control spaces. The ASW weapons fit is identical to that of the Kresta II but AA capabilities have been improved with the addition of SA-N-4 launchers amidships. In the 1990's and 2000's, they recieved numerous electronics upgrades that allows them to fire the most modern Soviet weaponry. The larger size of the hull has also made it possible to fit these ships with both the Bull Nose bow sonar as well as the Mare Tail variable depth sonar also found on the Krivaks.
