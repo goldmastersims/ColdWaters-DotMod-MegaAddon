@@ -762,7 +762,7 @@ AttackSettings=STRAIGHT,SNAKE,LEFT,RIGHT
 DepthSettings=LEVEL,DEEP_SUB,SHALLOW_SUB,SHIP
 *
 WeaponNoiseValues=110,230
-WeaponSprite=hud\sprites\wp_uset-80_sprite.png
+WeaponSprite=weapons/sprites/wp_uset-80_sprite
 MinCameraDistance=0.3
 ResupplyTime=30
 [Model]
@@ -810,7 +810,7 @@ AttackSettings=STRAIGHT,SNAKE,LEFT,RIGHT
 DepthSettings=LEVEL,DEEP_SUB,SHALLOW_SUB,SHIP
 *
 WeaponNoiseValues=110,230
-WeaponSprite=hud\sprites\wp_uset-80_sprite.png
+WeaponSprite=weapons/sprites/wp_uset-80_sprite
 MinCameraDistance=0.3
 ResupplyTime=30
 [Model]
@@ -982,7 +982,7 @@ AttackSettings=STRAIGHT,SNAKE,LEFT,RIGHT
 DepthSettings=LEVEL_SUB,DEEP_SUB,SHALLOW_SUB
 *
 WeaponNoiseValues=120,230
-WeaponSprite=hud\sprites\wp_test-71_sprite.png
+WeaponSprite=weapons/sprites/wp_test-71_sprite
 MinCameraDistance=0.3
 [Model]
 ModelFile=weapons/assets/wp_test-71
@@ -1037,7 +1037,7 @@ AttackSettings=STRAIGHT,SNAKE,LEFT,RIGHT
 DepthSettings=LEVEL,SHALLOW,DEEP_SUB
 *
 WeaponNoiseValues=120,230
-WeaponSprite=hud\sprites\wp_test-71_sprite.png
+WeaponSprite=weapons/sprites/wp_test-71_sprite
 MinCameraDistance=0.3
 ResupplyTime=30
 [Model]
@@ -3112,7 +3112,7 @@ AttackSettings=STRAIGHT,SNAKE,LEFT,RIGHT
 DepthSettings=DEEP_SUB
 *
 WeaponNoiseValues=120,230
-WeaponSprite=hud/sprites/plan_yu-7_sprite.png
+WeaponSprite=hud/sprites/usn_mk46_sprite.png
 MinCameraDistance=0.3
 ResupplyTime=15
 [Model]
@@ -3329,7 +3329,7 @@ SensorAngles=80,25
 MaxLaunchDepth=1800
 MaxDepth=3600
 *
-WeaponRanges=14175,12805
+WeaponRanges=16404,12805
 WeaponSpeed=45,55
 TurnRate=20
 MaxPitchAngle=45
@@ -3381,7 +3381,7 @@ SensorAngles=60,15
 MaxLaunchDepth=330
 WeaponAltitudes=15000
 BoosterReleasedAfterSeconds=1800
-WeaponRanges=8000,55000
+WeaponRanges=8000,71084
 WeaponSpeed=40,1000
 TurnRate=40
 MaxPitchAngle=60
@@ -3616,7 +3616,7 @@ SensorAngles=0,0
 WeaponAltitudes=15000
 BoosterReleasedAfterSeconds=3600
 *
-WeaponRanges=4000,10000
+WeaponRanges=4000,24059
 WeaponSpeed=40,612
 TurnRate=10
 MaxPitchAngle=60
@@ -4145,7 +4145,7 @@ AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=DEEP_SUB
 *
 WeaponNoiseValues=120,230
-WeaponSprite=hud/sprites/plan_yu-7_sprite.png
+WeaponSprite=weapons/sprites/plan_yu-7_sprite
 MinCameraDistance=0.3
 
 [Model]
@@ -4515,7 +4515,7 @@ AttackSettings=STRAIGHT,SNAKE,LEFT,RIGHT
 DepthSettings=DEEP_SUB
 *
 WeaponNoiseValues=120,230
-WeaponSprite=hud/sprites/plan_yu-7_sprite.png
+WeaponSprite=weapons/sprites/plan_yu-7_sprite
 MinCameraDistance=0.3
 
 [Model]

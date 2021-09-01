@@ -13,6 +13,7 @@ VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_2004
 Date=23 APR 2004
 Hemisphere=North
 Time=1300
+ForceIce=TRUE
 UsePresetEnvironment=TRUE
 Weather=Clear
 SeaState=LightBreeze
