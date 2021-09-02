@@ -1,0 +1,8 @@
+[Unit Reference]
+ShipClass=Akula1 (Imp)
+Description=Akula-class Nuclear Attack Submarine (improved, 1994)
+History=This is one of the latest and most advanced Soviet submarine designs. It is larger than the Sierra, due to using steel for construction instead of much more expensive titanium. The Soviets put this increased size to use for even better quieting, more weapons and an improved sonar suite. These boats are nearly the equal of the SSN-21 Seawolf.
+
+[Player Ship Instances]
+PlayerClassNames="Tigr"
+PlayerClassHullNumbers=K-154
