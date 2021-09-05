@@ -1,4 +1,4 @@
 [Weapon Reference]
-WeaponName=RPK-7 "Peter" 
-WeaponDescriptiveName=RPK-7 "Peter"(SS-N-16)
-WeaponDescription=RPK-7 "VETER" or "WIND" is a 650mm anti-submarine rocket, a longer range version of the 533mm RPK-6 (range ~50km). They were together known as SS-N-16 to NATO, and both threw a 400mm ASW torpedo or a 20kT nuclear depth charge, but the larger weapon would reach about 100km or 54 miles,
+WeaponName=RPK-7 "Veter" 
+WeaponDescriptiveName=RPK-7 "Veter" (SS-N-16)
+WeaponDescription=RPK-7 "Veter" is a 650mm anti-submarine rocket, a longer range version of the 533mm RPK-6 (range ~50km). They were together known as SS-N-16 to NATO, and both threw a 400mm ASW torpedo or a 20kT nuclear depth charge, but the larger weapon would reach about 100km or 54 miles,
