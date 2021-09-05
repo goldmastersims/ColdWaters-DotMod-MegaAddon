@@ -1,5 +1,5 @@
 MissionType=SURGE
-AllowedOnlyfor=
+AllowedOnlyFor=
 ForbiddenFor=SURFACE
 HoursToStart=0,12
 StartLocation=NAVAL_BASE

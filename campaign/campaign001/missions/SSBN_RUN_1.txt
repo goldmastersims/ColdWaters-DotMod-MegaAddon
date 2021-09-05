@@ -1,5 +1,5 @@
 MissionType=SSBN_RUN
-AllowedOnlyfor=
+AllowedOnlyFor=
 ForbiddenFor=FFG,FF,DD,BB
 HoursToStart=8,24
 StartLocation=NAVAL_BASE

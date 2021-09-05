@@ -114,7 +114,7 @@ LinksToWaypoint=IG5,IG6,N2,IG7
 //Iceland
 //Reykjavik/Keflavik 2
 Alignment=FRIENDLY
-Function=AIRBASE,SOSUS_NODE,INSERTION_TARGET
+Function=AIRBASE,SOSUS_NODE,INSERTION_TARGET,NAVAL_BASE
 BaseMapPosition=-259.3,135.1
 RelatedSOSUS=DENMARKSTRAIT
 AircraftType=usn_p3c
@@ -127,7 +127,7 @@ LinksToRegionWaypoint=I1
 
 //Hofn 3
 Alignment=FRIENDLY
-Function=SOSUS_NODE
+Function=SOSUS_NODE,NAVAL_BASE
 BaseMapPosition=-191.30,67.3
 RelatedSOSUS=FAROESNORTH
 LinksToWaypoint=IG5
@@ -136,21 +136,21 @@ LinksToRegionWaypoint=I2
 //Norway
 //Oslo 4
 Alignment=FRIENDLY
-Function=STRATEGIC_NODE
+Function=STRATEGIC_NODE,NAVAL_BASE
 BaseMapPosition=50.7,-214.4
 LinksToWaypoint=NC6
 LinksToRegionWaypoint=N7
 
 //Bergen 5
 Alignment=FRIENDLY
-Function=STRATEGIC_NODE,INSERTION_TARGET
+Function=STRATEGIC_NODE,INSERTION_TARGET,NAVAL_BASE
 BaseMapPosition=-25.9,-147.5
 LinksToWaypoint=NC4
 LinksToRegionWaypoint=N6
 
 //Trondheim 6
 Alignment=FRIENDLY
-Function=STRATEGIC_NODE,AIRBASE,INSERTION_TARGET
+Function=STRATEGIC_NODE,AIRBASE,INSERTION_TARGET,NAVAL_BASE
 BaseMapPosition=67.2,-83.5
 AircraftType=usn_p3c
 AircraftTypeInvaded=wp_il-38_may
@@ -163,7 +163,7 @@ LinksToRegionWaypoint=N5
 
 //Andoya 7
 Alignment=FRIENDLY
-Function=AIRBASE,SOSUS_NODE
+Function=AIRBASE,SOSUS_NODE,NAVAL_BASE
 BaseMapPosition=182.7,45.4
 RelatedSOSUS=NORWAYSPITSBERGEN
 AircraftType=usn_p3c
@@ -176,7 +176,7 @@ LinksToRegionWaypoint=N2
 
 //Narvik 8
 Alignment=FRIENDLY
-Function=STRATEGIC_NODE,AIRBASE,INSERTION_TARGET
+Function=STRATEGIC_NODE,AIRBASE,INSERTION_TARGET,NAVAL_BASE
 BaseMapPosition=156.9,9.1
 AircraftType=usn_p3c
 AircraftTypeInvaded=wp_tu-142_bear
@@ -188,7 +188,7 @@ LinksToRegionWaypoint=N3
 
 //Spitsbergen 9
 Alignment=FRIENDLY
-Function=SOSUS_NODE
+Function=SOSUS_NODE,NAVAL_BASE
 BaseMapPosition=239.11,266.8
 RelatedSOSUS=NORWAYSPITSBERGEN
 LinksToWaypoint=N1
@@ -203,7 +203,7 @@ AircraftTypeInvaded=usn_p3c
 AircraftPrepTime=10
 AircraftHeadings=300,0
 AircraftSearchRange=700
-MissionTypes=SSN_SURGE,SURGE,LANDING_FORCE,ASW_PATROL,ASUW_STRIKE,SHIP_RESUPPLY,SUB_RESUPPLY,SSN_PATROL,SSN_WOLFPACK,SS_PATROL,SS_WOLFPACK,SS_SPECOPS,RESUPPLY_CONVOY
+MissionTypes=SSN_SURGE,SURGE,LANDING_FORCE,ASW_PATROL,ASUW_STRIKE,SHIP_RESUPPLY,SUB_RESUPPLY,SSN_PATROL,SSN_WOLFPACK,SS_PATROL,SS_WOLFPACK,SS_SPECOPS,RESUPPLY_CONVOY,SS_WOLFPACK_LG
 LinksToWaypoint=SC4
 CombatCoords=1234,1234
 

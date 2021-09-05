@@ -1,5 +1,5 @@
 Image=campaign/images/plan landing 1
-PlayerVessels=usn_99_ssn_seawolf,uk_00_ssn_trafalgar,usn_99_ssn_los_angeles_flt3,usn_99_ssn_los_angeles_flt2,usn_84_ssn_los_angeles,usn_84_ssn_sturgeon,usn_00_ffg_perry_pl,usn_84_dd_spruance_pl,usn_84_cg_ticonderoga_pl
+PlayerVessels=usn_99_ssn_seawolf,uk_92_ssn_trafalgar,usn_99_ssn_los_angeles_flt3,usn_99_ssn_los_angeles_flt2,usn_84_ssn_los_angeles,usn_84_ssn_sturgeon,usn_00_ffg_perry_pl,usn_84_dd_spruance_pl,usn_84_cg_ticonderoga_pl
 [COMMANDER NAMES]
 CommanderName=COMSUBPAC
 CommanderFleetName=CINCPACFLT
@@ -10,7 +10,7 @@ StartingPrestige=400,200,0,0
 LoadoutType=0
 [Prestige Cost]
 usn_99_ssn_seawolf=220
-uk_00_ssn_trafalgar=180
+uk_92_ssn_trafalgar=180
 usn_99_ssn_los_angeles_flt3=120
 usn_99_ssn_los_angeles_flt2=100
 usn_84_ssn_los_angeles=50

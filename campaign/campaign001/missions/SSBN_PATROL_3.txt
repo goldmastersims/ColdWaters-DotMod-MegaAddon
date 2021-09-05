@@ -1,4 +1,6 @@
 MissionType=SSBN_PATROL
+AllowedOnlyFor=
+ForbiddenFor=BB
 HoursToStart=8,24
 StartLocation=NAVAL_BASE
 StartAlignment=ENEMY

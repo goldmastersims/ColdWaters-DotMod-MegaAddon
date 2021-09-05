@@ -1,6 +1,4 @@
 MissionType=INSERTION
-AllowedOnlyForCostBelow=
-AllowedOnlyForCostHigherThan=1
 ForbiddenFor=SURFACE
 HoursToStart=0,0
 StartLocation=PLAYER_BASE

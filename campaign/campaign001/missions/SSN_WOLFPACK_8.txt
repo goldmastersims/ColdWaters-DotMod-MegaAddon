@@ -1,5 +1,5 @@
 MissionType=SSN_WOLFPACK
-AllowedOnlyfor=
+AllowedOnlyFor=
 ForbiddenFor=BB
 HoursToStart=0,12
 StartLocation=NAVAL_BASE
