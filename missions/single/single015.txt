@@ -1,34 +1,36 @@
-//Polar Glory
+//Action Off North Cape
 
 UseTerrain=TRUE
-MapCoordinates=1740,1145
+MapCoordinates=1140,1160
 MapNavigationData=campaign/images/maps/norwegian_sea_navmap
 MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
 WorldObjectsData=campaign/maps/norwegian_sea_world_objects
 VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_2004
 
 //Environment
-Date=6 MAY 2004
+Date=28 APR 2004
 Hemisphere=North
-Time=1600
+Time=1400
 UsePresetEnvironment=TRUE
-Weather=Clear
-SeaState=LightBreeze
-DuctStrength=Moderate
-LayerStrength=Moderate
+Weather=Rain
+SeaState=ModerateBreeze
+DuctStrength=RANDOM
+LayerStrength=RANDOM
 
 //Enemy Ships
-NumberOfEnemyUnits=1-1,2-3,3-4,1-1
-CombatBehaviour=DEFENSIVE,OFFENSIVE,DEFENSIVE,OFFENSIVE
-EnemyUnitMissionCritical=FALSE,FALSE,TRUE,FALSE
-EnemyShipClasses=wp_04_takr_kiev_modernized_ai,wp_04_bpk_udaloy_modernized_ai|wp_04_bpk_kresta2_modernized_ai|wp_04_bpk_kara_modernized_ai,wp_bdk_alligator|wp_bdk_ropucha|wp_vtr_amguema,wp_04_ssn_sierra_modernized|wp_04_ssn_akula1_modernized|wp_14_ssn_yasen
+NumberOfEnemyUnits=0-1,1-2,2-3,1-1,1-1,0-1
+CombatBehaviour=DEFENSIVE,OFFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE
+EnemyShipClasses=wp_04_takr_kiev_modernized_ai|wp_04_rkr_kirov_modernized_ai,wp_04_em_sovremenny_modernized_ai|wp_04_bpk_udaloy_modernized_ai,wp_68_bpk_kashin_ai|wp_04_skr_krivak1_modernized_ai,wp_ms_kommunist|wp_vtr_andizhan_mod,wp_vt_boris_chilikin|wp_vt_dubna,wp_04_ss_kilo_improved|wp_84_ss_kilo|wp_84_ss_tango
+FormationCruiseSpeed=11
+
+UsePresetPositions=FALSE
 
 //Enemy Aircraft
 NumberOfHelicopters=2
-HelicopterType=wp_helix
-NumberOfAircraft=0
-AircraftType=wp_il-38_may
+HelicopterType=wp_helix_2004
+NumberOfAircraft=1
+AircraftType=wp_il-38_may_2004
 
-PlayerVessels=usn_99_ssn_sturgeon_modernized,usn_99_ssn_narwhal_modernized,usn_99_ssn_los_angeles_modernized,usn_99_ssn_los_angeles_flt2_modernized,usn_99_ssn_los_angeles_flt3_modernized,usn_99_ssn_seawolf,usn_04_ssn_virginia
+PlayerVessels=usn_04_ssn_virginia,usn_99_ssn_seawolf,usn_99_ssn_los_angeles_flt3,usn_99_ssn_los_angeles_flt2,usn_99_ssn_los_angeles_modernized,usn_99_ssn_narwhal_modernized,usn_99_ssn_sturgeon_modernized,usn_84_ffg_perry_pl,usn_84_dd_spruance_pl,usn_84_cg_ticonderoga_pl
 CommanderName=COMSUBLANT
 CommanderFleetName=CINCLANTFLT

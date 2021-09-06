@@ -1,11 +1,12 @@
-Image=campaign/images/nato missile land attack
-MissionLocation=Возле Парасельских островов
-Briefing=27 марта 1999
-Briefing=Вам приказано нанести удар по объектам во вражеском тылу. Координаты целей заложены в ГСН ракет, вам остаётся только запустить их.
+//Action In The North Atlantic
+
+Image=campaign/images/pact warship tender 1
+MissionLocation=West of Iceland
+Briefing=25 MAY 1968
+Briefing=Your orders are to intercept a replenishment force suspected to be operating somewhere in the North Atlantic, west of Iceland, where they are supporting aggressive Soviet anti-convoy operations. After several uneventful days spent searching, sonar reports a contact.
 Briefing=
-Briefing=Основная задача:
-Briefing=Загрузить на борт 8 КР «Томагавк»
-Briefing=Запустить 8 КР «Томагавк»
+Briefing=Primary Objective:
+Briefing=Locate and sink the tenders
 Briefing=
-Briefing=Дополнительная задача:
-Briefing=Потопить вражеские корабли
+Briefing=Secondary Objective:
+Briefing=Locate and sink any escorting warships if possible

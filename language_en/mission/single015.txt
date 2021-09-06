@@ -1,12 +1,12 @@
-//Polar Glory
+//Action Off North Cape
 
-Image=campaign/images/pact landing 2
-MissionLocation=Southeast of Iceland
-Briefing=6 MAY 2004
-Briefing=Norway has fallen. Soviet air and naval forces continue to penetrate the GIUK Gap daily to target convoys heading for Europe. Soviet forces have now reached the Rhein, and SOSUS has detected a invasion force heading for Iceland.
+Image=campaign/images/pact warship tender 2
+MissionLocation=East of Iceland
+Briefing=28 APR 2004
+Briefing=SOSUS nets and have detected a Soviet UNREP group departing Archangel and moving into the Norwegian Sea, where it will likely rendezvous with Soviet carriers in the region. If this group is allowed to replenish Soviet forces, NATO forces will not be able to recapture Narvik. Intelligence also suggests a heavy escort group and possibly a capital ship leading this group. Destroy this group and any escorting warships.
 Briefing=
 Briefing=Primary Objective:
-Briefing=Sink the landing ships
+Briefing=Sink the Replenishment Vessels
 Briefing=
 Briefing=Secondary Objective:
-Briefing=Sink the escorting warships
+Briefing=Sink the Escorts

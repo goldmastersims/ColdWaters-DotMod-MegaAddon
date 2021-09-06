@@ -13,25 +13,25 @@ Alignment=FRIENDLY
 ConnectedZones=I1
 
 **************WEST GERMANY**************
-//Frankfurt and the Rhine-Main area
+//Frankfurt and the Rhine-Main area (Far-West Germany)
 WaypointName=WG1
 WaypointPosition=1.2,-367.1
 Alignment=FRIENDLY
 ConnectedZones=WG2,WG3
 InvadedBy=LAND,ENEMY
 
-//Bremen and Hamburg
+//Bremen and Hamburg (North Germany)
 WaypointName=WG2
 WaypointPosition=1.2,-330.8
 Alignment=FRIENDLY
-ConnectedZones=D1,WG1,WG3,EG1
+ConnectedZones=D1,WG1,WG3
 InvadedBy=LAND,ENEMY
 
-//North Rhine-Westphalia
+//North Rhine-Westphalia (South Germany)
 WaypointName=WG3
 WaypointPosition=-41.2,-361.5
 Alignment=FRIENDLY
-ConnectedZones=WG1,WG2,EG1,ND1,B1
+ConnectedZones=WG1,WG2,ND1,B1
 
 **************EAST GERMANY**************
 //East Germany & Berlin

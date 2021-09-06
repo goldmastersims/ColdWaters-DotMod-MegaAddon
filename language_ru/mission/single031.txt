@@ -1,7 +1,9 @@
-Image=campaign/images/plan wolfpack 3
-MissionLocation=Near the Paracel Islands
-Briefing=7 AUG 2000
-Briefing=US naval forces continue to challenge the exclusion zone around the Paracel Islands. Weapons free, you are cleared to engage any US naval vessels in the area without warning.
+//Погоня
+Image=campaign/images/pact surface raiders 2
+MissionLocation=Норвежское море
+Briefing=06 мая 1985г
+Briefing=Попытка незаметно пересечь рубеж SOSUS не удалась - поисковая группа обнаружила вас и теперь придётся принимать бой.
+Briefing=<b>Боевая задача:</b>
+Briefing=- Потопить корабли противника
 Briefing=
-Briefing=Primary Objective:
-Briefing=Sink enemy warships
+Briefing=

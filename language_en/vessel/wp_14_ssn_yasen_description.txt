@@ -4,7 +4,7 @@ Description=Yasen-class Nuclear Attack Submarine
 History=The Yasen-class nuclear-powered multipurpose attack submarine is the latest addition to Soviet Navy submarine force. Based on earlier Sierra-class and Akula-class submarines, this boat features state-of-the-art equipment, improved quieting, enormous torpedo arsenal and heavy cruise missile payload. 
 This submarine is the pride of Soviet Navy, and must be considered an extremely dangerous threat.
 
-Player Ship Instances]
+[Player Ship Instances]
 PlayerClassNames=Severodvinsk,Kazan,Novosibirsk,Krasnoyarsk,Arkhangelsk,Perm,Voronezh
 
 PlayerClassHullNumbers=K-560,K-561,K-562,K-563,K-564,K-565,K-567

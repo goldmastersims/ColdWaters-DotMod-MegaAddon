@@ -1,12 +1,12 @@
-//Opening Shots
+//Iron Bottom
 
-Image=campaign/images/TransitBackgrounds/sovremenny_02.jpg
-MissionLocation=East of Iceland
+Image=campaign/images/TransitBackgrounds/Kiev_01.jpg
+MissionLocation=Barents Sea
 Briefing=17 APR 2004
-Briefing=Following hostilities breaking out between the East and West, a Soviet raider group has left Archangelsk to cover the invasion of Narvik. As the USS Constellation (CV-66) moves in to support Norwegian troops on the ground, you are ordered to clear a path for the carrier group. 
+Briefing=Your vessel was one of the many deployed to the Barents Sea to monitor the massive amount recent Soviet naval activity. Your last contact with command was an aminous message saying "Avoid provoking Soviet forces, and stay out of Soviet territorial waters" - a sharp contrast to previous strategy. As you stalk one of the four Kievs, you begin to contemplate what is about to happen.
 Briefing=
 Briefing=Primary Objective:
-Briefing=Sink the ASuW ships
+Briefing=Survive
 Briefing=
 Briefing=Secondary Objective:
-Briefing=Sink the escorts
+Briefing=Sink the Kiev

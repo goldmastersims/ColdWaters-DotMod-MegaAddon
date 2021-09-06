@@ -11,12 +11,14 @@
 <color=Cyan>The Setting Sun</color>
 <color=Cyan>Opening Shots</color>
 <color=Cyan>Hunters</color>
-<color=Cyan>Opening Shots</color>
+<color=Cyan>Iron Bottom</color>
+<color=Cyan>Action Off North Cape</color>
 <color=Cyan>Polar Glory</color>
 <color=Cyan>Red Waters</color>
 <color=Cyan>Hunting the Arctic Wolf</color>
 <color=Cyan>Hunter Killers</color>
 <color=Cyan>Assassins</color>
+<color=Cyan>Twilight's Last Gleaming</color>
 <color=#39CCCC>Action in the North Atlantic</color>
 <color=#39CCCC>Skirmish in the Denmark Strait</color>
 <color=#7FDBFF>Junks on Parade</color>

@@ -106,7 +106,7 @@ LinksToWaypoint=IG7
 
 //Torshavn 1
 Alignment=FRIENDLY
-Function=SOSUS_NODE
+Function=SOSUS_NODE,NAVAL_BASE
 BaseMapPosition=-143.10,-37.00
 RelatedSOSUS=FAROESSOUTH,FAROESNORTH
 LinksToWaypoint=IG5,IG6,N2,IG7
@@ -263,9 +263,9 @@ SOSUSAlignment=FRIENDLY
 PlayerMissionTypes=SURGE,SSN_WOLFPACK,SS_WOLFPACK,SS_SPECOPS,INSERTION,LAND_STRIKE,SSBN_RUN,ASUW_STRIKE,LANDING_FORCE,RESUPPLY_CONVOY,SHIP_RESUPPLY,SUB_RESUPPLY,SSN_WOLFPACK_LG,SS_WOLFPACK_LG,SS_SPECOPS_LG,ASUW_STRIKE_LG,RETURN_TO_BASE,SSBN_PATROL
 //Last two missions are not included on frequency list
 //Sum of frequencies must equal 1
-PlayerMissionFrequency=0.0001,0.06,0.065,0.04,0.02,0.04,0.02,0.042,0.035,0.001,0.03,0.03,0.175,0.18,0.1299,0.15
-PlayerMissionThreshold=0,0,0,0.55,0.7,0.55,0.7,0,0,0.65,0.65,0.7,0.8,0.8,0.75,0.8
-PlayerMissionCount=1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PlayerMissionFrequency=0.0001,0.06,0.065,0.05,0.04,0.04,0.02,0.042,0.035,0.0079,0.07,0.07,0.25,0.25
+PlayerMissionThreshold=0,0,0,0.55,0.7,0.55,0.7,0,0,0.65,0.65,0.7,0.8,0.8
+PlayerMissionCount=1,0,0,0,0,0,0,0,0,0,0,0,0,0
 
 FirstMissionTypes=SURGE
 DefaultMissionTypes=SS_WOLFPACK,SSN_WOLFPACK

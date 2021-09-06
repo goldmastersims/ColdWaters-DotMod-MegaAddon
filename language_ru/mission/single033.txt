@@ -1,10 +1,7 @@
-Image=campaign/images/nato convoy
-MissionLocation=Возле Тайваня
-Briefing=24 декабря 2000
-Briefing=Конвой США пытается доставить на Тайвань военнную технику и боеприпасы. Вам приказано воспрепятствовать этому.
+Image=campaign/images/plan wolfpack 3
+MissionLocation=Near the Paracel Islands
+Briefing=7 AUG 2000
+Briefing=US naval forces continue to challenge the exclusion zone around the Paracel Islands. Weapons free, you are cleared to engage any US naval vessels in the area without warning.
 Briefing=
-Briefing=Основная задача:
-Briefing=Потопить вражеские транспорты
-Briefing=
-Briefing=Дополнительная задача:
-Briefing=Потопить корабли сопровождения
+Briefing=Primary Objective:
+Briefing=Sink enemy warships

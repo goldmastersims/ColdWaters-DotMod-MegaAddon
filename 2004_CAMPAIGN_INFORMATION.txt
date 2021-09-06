@@ -5,7 +5,7 @@ Currently there is only an American 2004 campaign, but work on a Soviet 2004 cam
 Good Hunting!
 
 Changelog:
-
+1.3 - Added two (2) new NATO single missions (Iron Bottom and Twilight's Last Gleaming), completely redid Action Off North Cape, Added playable Ohio, Added Trident II SLBM, fixed a campaign bug where intro events would replay in the middle of the campaign, fixed Mk-50, ASROC, and Sea Lance ranges, added the SS-N-16M to the Kiev's armament, added additional options for the user (red-hull Seawolf and 2004 campaign with no prestige, NATO names for Soviet equipment, reordering of the vessel lists to be ordered from greatest-to-least displacement) - 9/6/21
 1.2 - Shortened Soviet vessel names, rewrite several vessel description files, added new sprites by Steel Shark - 8/29/21
 1.1 - Critical campaign fixes, new Virginia textures, fixed an error that caused the Russian translation of the NATO 2004 campaign to break, fixed single mission list error - 08/25/21
 1.0 - 2004 Campaign Demo, numerous bug fixes, and the American 2004 Campaign - 08/24/21
@@ -20,6 +20,19 @@ Un-Install Guide:
 1. Travel to Cold Waters/ColdWaters_Data/StreamingAssets
 2. Delete the "override" folder
 
+Additional Options:
+- Red-Hull Seawolf (Texture by Skwabie)
+- NATO 2004 Campaign with/without prestige mode
+- NATO names for Soviet equipment (done by HobbitJack)
+- Reordering vessel lists to be ordered by greatest-to-least displacement regardless of vessel type and service entry date
+
+How to Install Additional Options:
+1. Move the "priority" folder, located in DotMod_2004_Addon_vX.X/Additional_2004_Options/(option name) to Cold Waters/ColdWaters_Data/StreamingAssets 
+Note: Multiple addons can use the same priority folder
+
+How to Un-Install Additional Options:
+1. Delete or rename the "priority" folder, located in Cold Waters/ColdWaters_Data/StreamingAssets 
+
 HELP WANTED
 If you are fluent in Russian, and don't mind several spending mind-numbing hours translating files, please reach out to me on Discord. I will take whatever help I can get here.
 
@@ -30,7 +43,7 @@ that_person: Addon organiser and main developer (virtually everything)
 GSmith63: Provided the base 1990 Campaign, which the US 2004 campaign is based off of
 HobbitJack: Testing and proof-reading, bundled the UGST torpedo model
 Dsmirnoff: Technical advising, provided Soviet force structure 
-General_Dave_1: Assistant writer, proof reader, and "lore advising", testing
+General_Dave_1: Assistant writer, editor, and testing
 ElectricBoat: Numerous weapon models
 TheHappyYatcher: Provided the UUM-125B Sea Lance capsule and missile, as well as the Mk-50 torpedo model
 SteelShark: Provided numerous weapon sprites

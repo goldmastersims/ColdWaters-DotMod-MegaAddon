@@ -16,6 +16,7 @@ usn_99_ssn_los_angeles_flt3
 usn_99_ssn_los_angeles_flt2_modernized
 usn_99_ssn_los_angeles_flt3_modernized
 usn_99_ssn_seawolf
+usn_99_ssbn_ohio_modernized
 usn_04_ssn_virginia
 uk_68_ss_oberon
 uk_84_ss_oberon

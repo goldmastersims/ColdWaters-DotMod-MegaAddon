@@ -1,9 +1,12 @@
-//Skirmish In The Denmark Strait
+//Twilights Last Gleaming
 
-Image=campaign/images/68 pact naval 1
-MissionLocation=Denmark Strait, near Iceland
-Briefing=04 FEB 1968
-Briefing=You've made contact with a Soviet open-ocean ASW group, including a helicopter carrier, that is attempting to break out into the North Atlantic with intent to hunt our Polaris submarines there. 
+Image=campaign/images/Backgrounds/trident_launch.png
+MissionLocation=250 Miles North-West of Holy Loch
+Briefing=3 JULY 2004
+Briefing=Following the collapse of Germany and Norway, NATO forces began tactical nuclear strikes against Warsaw Pact targets. Just 40 minutes ago, NORAD detected a large number of ICBMs heading for North American targets, and all measures to stop them have failed. Second Strike protocal has been initaited. As you come to launch depth, sonar reports four unknown contacts converging on your position.
 Briefing=
 Briefing=Primary Objective:
-Briefing=Sink the Moskva
+Briefing=Launch all 24 Trident D5 Missiles, per Second Strike protocol
+Briefing=
+Briefing=Secondary Objective:
+Briefing=Escape Soviet Forces

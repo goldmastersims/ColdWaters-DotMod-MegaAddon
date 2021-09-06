@@ -1,7 +1,13 @@
-Image=campaign/images/pact wolfpack 3
-MissionLocation=In the Denmark Strait
-Briefing=14 NOV 1984
-Briefing=A NATO ASW patrol has pursued you into the Denmark Strait. Now it is time to go on the offensive.
+//Strike From The Sea
+
+Image=campaign/images/nato missile land attack
+MissionLocation=Paracel Islands, South China Sea
+Briefing=27 MAR 1999
+Briefing=Perform a strike with cruise missiles to deliver a crushing blow deep in the PRC's backyard.
 Briefing=
 Briefing=Primary Objective:
-Briefing=Sink enemy escorts
+Briefing=Add 8 TLAM missiles to stores
+Briefing=Fire 8 TLAMs into the deployment zone
+Briefing=
+Briefing=Secondary Objective:
+Briefing=Engage enemy warships

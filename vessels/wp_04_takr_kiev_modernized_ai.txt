@@ -8,8 +8,8 @@ Displacement=40000
 Crew=1600
 Range=10500
 HullNumbers=121,025,137
-AircraftNumbers=7,7
-AircraftTypes=wp_helix_2004,wp_hormone
+AircraftNumbers=14
+AircraftTypes=wp_helix_2004
 
 [Movement]
 SurfaceSpeed=32
@@ -47,9 +47,8 @@ NavalGunRestAngle=0,180
 NavalGunParticle=weapons/assets/SmallMuzzleFlash
 NavalGunSmokeParticle=weapons/assets/SmallMuzzleSmoke
 
-TorpedoTypes=wp_set-65m
-Loadout_1=wp_uset-80k
-TorpedoNumbers=10
+TorpedoTypes=wp_uset-80k,wp_rpk-6m
+TorpedoNumbers=8,2
 TorpedoTubes=10
 TubeConfig=5,5
 TorpedoTubeSize=21
