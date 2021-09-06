@@ -6,6 +6,7 @@ Good Hunting!
 
 Changelog:
 1.3 - Added two (2) new NATO single missions (Iron Bottom and Twilight's Last Gleaming), completely redid Action Off North Cape, Added playable Ohio, Added Trident II SLBM, fixed a campaign bug where intro events would replay in the middle of the campaign, fixed Mk-50, ASROC, and Sea Lance ranges, added the SS-N-16M to the Kiev's armament, added additional options for the user (red-hull Seawolf and 2004 campaign with no prestige, NATO names for Soviet equipment, reordering of the vessel lists to be ordered from greatest-to-least displacement) - 9/6/21
+Some additional options aren not included for the DMMA implementation of this campaign.
 1.2 - Shortened Soviet vessel names, rewrite several vessel description files, added new sprites by Steel Shark - 8/29/21
 1.1 - Critical campaign fixes, new Virginia textures, fixed an error that caused the Russian translation of the NATO 2004 campaign to break, fixed single mission list error - 08/25/21
 1.0 - 2004 Campaign Demo, numerous bug fixes, and the American 2004 Campaign - 08/24/21
