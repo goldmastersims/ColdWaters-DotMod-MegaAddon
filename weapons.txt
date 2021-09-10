@@ -762,7 +762,7 @@ AttackSettings=STRAIGHT,SNAKE,LEFT,RIGHT
 DepthSettings=LEVEL,DEEP_SUB,SHALLOW_SUB,SHIP
 *
 WeaponNoiseValues=110,230
-WeaponSprite=weapons/sprites/wp_uset-80_sprite
+WeaponSprite=hud\sprites\wp_uset-80_sprite.png
 MinCameraDistance=0.3
 ResupplyTime=30
 [Model]
@@ -810,7 +810,7 @@ AttackSettings=STRAIGHT,SNAKE,LEFT,RIGHT
 DepthSettings=LEVEL,DEEP_SUB,SHALLOW_SUB,SHIP
 *
 WeaponNoiseValues=110,230
-WeaponSprite=weapons/sprites/wp_uset-80_sprite
+WeaponSprite=hud\sprites\wp_uset-80_sprite.png
 MinCameraDistance=0.3
 ResupplyTime=30
 [Model]
@@ -982,7 +982,7 @@ AttackSettings=STRAIGHT,SNAKE,LEFT,RIGHT
 DepthSettings=LEVEL_SUB,DEEP_SUB,SHALLOW_SUB
 *
 WeaponNoiseValues=120,230
-WeaponSprite=weapons/sprites/wp_test-71_sprite
+WeaponSprite=hud\sprites\wp_test-71_sprite.png
 MinCameraDistance=0.3
 [Model]
 ModelFile=weapons/assets/wp_test-71
@@ -1037,7 +1037,7 @@ AttackSettings=STRAIGHT,SNAKE,LEFT,RIGHT
 DepthSettings=LEVEL,SHALLOW,DEEP_SUB
 *
 WeaponNoiseValues=120,230
-WeaponSprite=weapons/sprites/wp_test-71_sprite
+WeaponSprite=hud\sprites\wp_test-71_sprite.png
 MinCameraDistance=0.3
 ResupplyTime=30
 [Model]
@@ -3437,8 +3437,8 @@ WeaponObjectReference=usn_mk50
 WeaponType=TORPEDO
 *
 Warhead=100
-SensorRange=3500
-SensorAngles=80,25
+SensorRange=2000
+SensorAngles=60,15
 *
 MaxLaunchDepth=1800
 MaxDepth=3600
@@ -4318,7 +4318,7 @@ AttackSettings=SNAKE,LEFT,RIGHT
 DepthSettings=DEEP_SUB
 *
 WeaponNoiseValues=120,230
-WeaponSprite=weapons/sprites/plan_yu-7_sprite
+WeaponSprite=hud/sprites/plan_yu-7_sprite.png
 MinCameraDistance=0.3
 
 [Model]
@@ -4688,7 +4688,7 @@ AttackSettings=STRAIGHT,SNAKE,LEFT,RIGHT
 DepthSettings=DEEP_SUB
 *
 WeaponNoiseValues=120,230
-WeaponSprite=weapons/sprites/plan_yu-7_sprite
+WeaponSprite=hud/sprites/plan_yu-7_sprite.png
 MinCameraDistance=0.3
 
 [Model]
