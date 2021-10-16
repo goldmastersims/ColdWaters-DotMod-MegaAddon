@@ -44,7 +44,7 @@ TowedArrayPosition=-0.0923,0.003,-0.762
 
 [Weapon Systems]
 TorpedoTypes=uk_spearfish,uk_tigerfish,usn_moss,usn_tasm,usn_tlam
-TorpedoNumbers=10,6,5,4,0
+TorpedoNumbers=10,6,5,4,5
 TorpedoTubes=5
 NumberOfWires=3
 TubeConfig=1,1,1,1,1
