@@ -155,7 +155,6 @@ MeshHullNumber=usn_84_ssbn_ohio_hullnumbers
 [Weapon Systems]
 //Torpedo Mounts
 //Port
--MeshRotation=0,-15,0
 MeshRotation=0,-6,0
 
 MeshPosition=-0.09,-0.02,1.04
@@ -167,7 +166,6 @@ TorpedoSpawnPosition=-0.083,-0.042,1.01
 TorpedoEffectPosition=-0.083,-0.042,1.01
 
 //Starboard
--MeshRotation=0,15,0
 MeshRotation=0,6,0
 
 MeshPosition=0.09,-0.02,1.04
@@ -187,13 +185,13 @@ TorpedoEffectPosition=0,0,-0.211
 VLSLaunchPoints=-0.035,0.1,0.48|0.035,0.1,0.48|-0.035,0.1,0.435|0.035,0.1,0.435|-0.035,0.1,0.395|0.035,0.1,0.395|-0.035,0.1,0.355|0.035,0.1,0.355|-0.035,0.1,0.31|0.035,0.1,0.31|-0.035,0.1,0.27|0.035,0.1,0.27|-0.035,0.1,0.23|0.035,0.1,0.23|-0.035,0.1,0.185|0.035,0.1,0.185|-0.035,0.1,0.14|0.035,0.1,0.14|-0.035,0.1,0.10|0.035,0.1,0.10|-0.035,0.1,0.06|0.035,0.1,0.06|-0.035,0.1,0.02|0.035,0.1,0.02
 VLSLaunchPointsRotation=-90,0,0
 
+
 //Noisemaker Mount
 MeshRotation=0,0,0
 MeshPosition=0,-0.08,-0.9
 MeshNoisemakerMount=FALSE
 
 //Wake
-ModelFile=assets/vessels/usn/usn_ssbn_ohio/usn_ssbn_ohio.obj
 MeshPosition=0,0,0
 MeshRotation=0,0,0
 BowWaveParticle=ships/particles/bowwave_sub
@@ -208,8 +206,6 @@ ParticleBowWavePosition=0,-0.01,1.26
 ParticlePropWashPosition=0,-0.01,-1.23
 
 ParticleHullFoamPosition=0,0,0.97
--ParticleHullFoamParameters=50,0.40,0.1,0.011,0,0,0.25
--ParticleHullFoamParameters=10,0.25,0.25,0.055,0,0,0.25
 ParticleHullFoamParameters=20,0.45,0.45,0.055,0,0,0.25
 
 ParticleSternFoamPosition=0,0,-0.77
